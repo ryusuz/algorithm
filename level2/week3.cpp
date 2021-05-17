@@ -1,8 +1,4 @@
-/* 
- * week 3
- * 레벨2 - 배달
- */
-
+// week3 레벨2 - 배달
 #include <iostream>
 #include <vector>
 #include <utility>

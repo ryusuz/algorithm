@@ -1,4 +1,4 @@
-// week2-3 키패드 누르기 
+// week2-3 키패드 누르기
 #include <string>
 #include <vector>
 #include <cstdlib>

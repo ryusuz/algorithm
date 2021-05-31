@@ -1,55 +1,39 @@
 // week6-1 실패율
 #include <string>
 #include <vector>
-#include <iostream>
 #include <utility>
+#include <iostream>
 #include <algorithm>
 
 using namespace std;
-bool compare(pair<double, int>& front, pair<double, int>& back);
 
 vector<int> solution(int N, vector<int> stages) {
-    vector<int> answer(N);
-    vector<int> challenge(N);
-    vector<int> fail(N);
-    vector<pair<double, int>> fail_rate(N);
+    vector<int> answer;
+    int people = stages.size();     // 사용자 수
+    vector<int> count(N);
+    vector<double> fail(N);
     
-    for (int i = 0; i < stages.size(); i++) {
-        int count = stages[i];
-        
-        for (int j = 0; j < count; j++) {
-            challenge[j]++;
-        }
-        
-        fail[count - 1]++;
+    // 각 스테이지별 클리어하지 못한 사람 수
+    for (int stage : stages) {
+        if (stage == N + 1) continue;
+        count[stage - 1] += 1;
     }
     
-    for (int i = 0; i < N; i++) {
-        if (challenge[i]==0)  fail_rate[i] = make_pair(0, i+1);
-        else fail_rate[i] = make_pair((double)fail[i]/challenge[i], i+1);
+    //스테이지 별 실패율
+    for(int i = 0; i < N; i++) {
+        if(count[i] == 0) fail[i] = 0;
+        else fail[i] = (double)count[i] / people;
+        people -= count[i];
     }
-            
-    sort(fail_rate.begin(), fail_rate.end(), compare);
     
-    for (int i = 0; i < N; i++) {
-        int stage = fail_rate[i].second;
-        answer[i] = stage;
+    while (answer.size() < N) {
+        double max = *max_element(fail.begin(), fail.end());
+        int max_index = max_element(fail.begin(), fail.end()) - fail.begin();
+
+        answer.push_back(max_index + 1);
+        
+        fail[max_index] = -1;  
     }
     
     return answer;
-}
-
-bool compare(pair<double, int>& front, pair<double, int>& back)
-{
-	double front_cnt = front.first;
-	int front_char = front.second;
-	
-	double back_cnt = back.first;
-	int back_char = back.second;
-
-	if (front_cnt < back_cnt) return front_cnt > back_cnt;
-	
-	else if (front_cnt == back_cnt)	return front_char < back_char;
-	
-	else return front_cnt > back_cnt;
 }

@@ -7,7 +7,7 @@ using namespace std;
 
 int solution(int n) {
     int answer = 0;
-    int num[n];
+    int num[n+1];
     vector<int> prime;
     
     for (int i = 2; i <= n; i++) {
@@ -21,11 +21,9 @@ int solution(int n) {
             num[j] = 0; 
         }
         
-        prime.push_back(i);
+        answer++;
         
     }
-    
-    answer = prime.size();
-    
+        
     return answer;
 }

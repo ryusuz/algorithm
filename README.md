@@ -46,5 +46,5 @@
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week7_1.cpp">기능개발</a>|스택/큐|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week7_2.cpp">문자열 압축</a>|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week8_1.cpp">전화번호 목록</a>|해시|
-
+|<a href=" https://github.com/ryusuz/algorithm/blob/master/level2/week10.cpp">수식 최대화</a>||
 

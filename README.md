@@ -37,8 +37,8 @@
 </br>
 <h3> 🏅 Level 2 </h3></br>
 
-|문제|비고|
-|:---:|:---:|
+|문제|비고|날짜|
+|:---:|:---:|:---:|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week1.cpp">다리를 지나는 트럭</a>|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week2.cpp">더 맵게</a>|힙|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week5.cpp">짝 지어 제거하기</a>|
@@ -46,7 +46,11 @@
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week7_1.cpp">기능개발</a>|스택/큐|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week7_2.cpp">문자열 압축</a>|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week8_1.cpp">전화번호 목록</a>|해시|
-|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week9_2.cpp">큰 수 만들기</a>||
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week10.cpp">수식 최대화</a>||
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week9_2.cpp">큰 수 만들기</a>||
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week9_1/week9_1.cpp">순위검색</a>|해시|21.08.04.|
+
+
+
 
 

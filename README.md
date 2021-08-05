@@ -2,8 +2,8 @@
 
 <h3> 🏅 Level 1 </h3></br>
 
-|문제|비고|
-|:---:|:---:|
+|문제|비고|날짜|
+|:---:|:---:|:---:|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week1_1.cpp">크레인 인형 뽑기</a>|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week1_2.cpp">로또의 최고 순위와 최저 순위|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week1_3.cpp">신규 아이디 추천|
@@ -29,6 +29,8 @@
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week8_7.cpp">완주하지 못한 선수|해시|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week9_1.cpp">두 개 뽑아서 더하기|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week10_1.cpp">숫자 문자열과 영단어|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_1.cpp">1주차|완전탐색|21.08.05.|
+
 
 
 

@@ -31,14 +31,10 @@
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week10_1.cpp">숫자 문자열과 영단어|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_1.cpp">1주차||21.08.05.|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_2/week11_2.cpp">모의고사|완전탐색|21.08.06.|
-
-
-
-
-
-
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_2/week11_2.cpp">같은 숫자는 싫어||21.08.06.|
 
 </br>
+  
 <h3> 🏅 Level 2 </h3></br>
 
 |문제|비고|날짜|

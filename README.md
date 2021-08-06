@@ -29,7 +29,9 @@
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week8_7.cpp">완주하지 못한 선수|해시|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week9_1.cpp">두 개 뽑아서 더하기|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week10_1.cpp">숫자 문자열과 영단어|
-|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_1.cpp">1주차|완전탐색|21.08.05.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_1.cpp">1주차||21.08.05.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_2/week11_2.cpp">모의고사|완전탐색|21.08.06.|
+
 
 
 

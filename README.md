@@ -34,6 +34,11 @@
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_3/week11_3.cpp">같은 숫자는 싫어||21.08.06.|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_4.cpp">나누어 떨어지는 숫자 배열||21.08.07.|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_5/week11_5.cpp">문자열 내 마음대로 정렬하기||21.08.07.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_6.cpp">문자열 내 p와 y의 개수||21.08.07.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_7.cpp">문자열 내림차순으로 배치하기||21.08.07.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_8/week11_8.cpp">문자열 다루기 기본||21.08.07.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_9.cpp">수박수박수박수?||21.08.07.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_10.cpp">문자열을 정수로 바꾸기||21.08.07.|
 </br>
   
 <h3> 🏅 Level 2 </h3></br>

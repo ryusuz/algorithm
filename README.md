@@ -31,8 +31,9 @@
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week10_1.cpp">숫자 문자열과 영단어|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_1.cpp">1주차||21.08.05.|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_2/week11_2.cpp">모의고사|완전탐색|21.08.06.|
-|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_2/week11_2.cpp">같은 숫자는 싫어||21.08.06.|
-
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_3/week11_3.cpp">같은 숫자는 싫어||21.08.06.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_4.cpp">나누어 떨어지는 숫자 배열||21.08.07.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_5/week11_5.cpp">문자열 내 마음대로 정렬하기||21.08.07.|
 </br>
   
 <h3> 🏅 Level 2 </h3></br>

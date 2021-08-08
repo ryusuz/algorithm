@@ -4,7 +4,6 @@
 #include <iostream>
 
 using namespace std;
-    int i = 0;
 
 int calGCD(int a, int b) {
     if (a % b == 0) return b;

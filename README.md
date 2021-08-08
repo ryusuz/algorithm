@@ -39,6 +39,23 @@
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_8/week11_8.cpp">문자열 다루기 기본||21.08.07.|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_9.cpp">수박수박수박수?||21.08.07.|
 |<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_10.cpp">문자열을 정수로 바꾸기||21.08.07.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_11.cpp">시저암호||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_12.cpp">약수의 합||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_13.cpp">이상한 문자 만들기||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_14.cpp">자릿수 더하기||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_15.cpp">자연수 뒤집어 배열로 만들기||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_16.cpp">정수 제곱근 판별||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_17.cpp">정수 내림차순으로 배치하기||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_18.cpp">짝수와 홀수||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_19.cpp">최대공약수와 최소공배수||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_20.cpp">콜라스 추측||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_21.cpp">평균 구하기||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_22.cpp">하샤드 수||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_23cpp">핸드폰 번호 가리기||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_24.cpp">x만큼 간격이 있는 n개의 숫자||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_25.cpp">직사각형 별찍기||21.08.08.|
+|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_26.cpp">행렬의 덧셈||21.08.08.|
+
 </br>
   
 <h3> 🏅 Level 2 </h3></br>

@@ -23,7 +23,7 @@
 
 ### 2. climits 헤더
 - 각 데이터타입들의 최소값과 최대값을 정의해놓은 헤더
-- ex. INT_MAX. INT_MIN...
+- ex. INT_MAX. INT_MIN, FLOAT_MAX...
 <br/>
 
 

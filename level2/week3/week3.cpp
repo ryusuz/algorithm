@@ -3,9 +3,10 @@
 #include <vector>
 #include <utility>
 #include <queue>
+#include <climits>
 
 using namespace std;
-int INF = 100000;
+int INF = INT_MAX;
 
 // N = 마을 개수, K = 최대 배달 시간, road = 두 마을 간 거리가 담긴 2차원 배열
 // 최단 경로가 K 이하인 애들만 리턴 => 다익스트라 알고리즘
@@ -16,7 +17,7 @@ int solution(int N, vector<vector<int> > road, int K) {
     vector<pair<int, int>> graph[N + 1];         // 그래프, pair 클래스 사용, 정점(마을) 크기 + 1만큼 선언
     int short_dist[N+1];                         // 최단경로비용 배열
     
-    for (int i = 0; i <= N+1; i++) {
+    for (int i = 0; i < N+1; i++) {
         short_dist[i] = INF;
     }
     

@@ -76,4 +76,7 @@
 |12|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week8_2/week8_2.cpp">위장</a>|해시|21.08.11.|
 |13|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week11.cpp">124 나라</a>||21.08.11.|
 |14|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12.cpp">N개의 최소공배수</a>||21.08.11.|
+|15|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_2.cpp">숫자의 표현</a>||21.08.12.|
+|16|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_4.cpp">최댓값과 최솟값</a>||21.08.12.|
+|17|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_3.cpp">오픈채팅방</a>|해시|21.08.12.|
 

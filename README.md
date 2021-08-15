@@ -55,6 +55,7 @@
 |49|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_24.cpp">x만큼 간격이 있는 n개의 숫자||21.08.08.|
 |50|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_25.cpp">직사각형 별찍기||21.08.08.|
 |51|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_26.cpp">행렬의 덧셈||21.08.08.|
+|52|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week12.cpp">2주차||21.08.15.|
 
 </br>
   

@@ -82,4 +82,4 @@
 |17|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_3.cpp">오픈채팅방</a>|해시|21.08.12.|
 |18|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_5/week12_5.cpp">피보나치 수</a>||21.08.13.|
 |19|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_6.cpp">행렬의 곱셈</a>||21.08.15.|
-|20|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_7.cpp">피보나치 수</a>||21.08.15.|
+|20|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_7.cpp">JadenCase 문자열 만들기</a>||21.08.15.|

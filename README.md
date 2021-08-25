@@ -56,6 +56,7 @@
 |50|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_25.cpp">직사각형 별찍기||21.08.08.|
 |51|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_26.cpp">행렬의 덧셈||21.08.08.|
 |52|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week12.cpp">2주차||21.08.15.|
+|53|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week13.cpp">4주차||21.08.25.|
 
 </br>
   
@@ -83,3 +84,4 @@
 |18|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_5/week12_5.cpp">피보나치 수</a>||21.08.13.|
 |19|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_6.cpp">행렬의 곱셈</a>||21.08.15.|
 |20|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_7.cpp">JadenCase 문자열 만들기</a>||21.08.15.|
+|21|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13.cpp">최솟값 만들기||21.08.25.|

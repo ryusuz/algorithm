@@ -1,4 +1,4 @@
-//week13 최솟값
+//week13 최솟값 만들기
 #include <iostream>
 #include <vector>
 #include <algorithm>

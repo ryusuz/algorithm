@@ -55,6 +55,8 @@
 |49|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_24.cpp">x만큼 간격이 있는 n개의 숫자||21.08.08.|
 |50|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_25.cpp">직사각형 별찍기||21.08.08.|
 |51|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_26.cpp">행렬의 덧셈||21.08.08.|
+|52|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week12.cpp">2주차||21.08.15.|
+|53|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week13.cpp">4주차||21.08.25.|
 
 </br>
   
@@ -79,4 +81,8 @@
 |15|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_2.cpp">숫자의 표현</a>||21.08.12.|
 |16|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_4.cpp">최댓값과 최솟값</a>||21.08.12.|
 |17|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_3.cpp">오픈채팅방</a>|해시|21.08.12.|
-|18|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_5/week12_5.cpp">피보나치 수</a>|해시|21.08.13.|
+|18|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_5/week12_5.cpp">피보나치 수</a>||21.08.13.|
+|19|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_6.cpp">행렬의 곱셈</a>||21.08.15.|
+|20|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_7.cpp">JadenCase 문자열 만들기</a>||21.08.15.|
+|21|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13.cpp">최솟값 만들기||21.08.25.|
+|22|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13_2.cpp">땅따먹기|동적 프로그래밍(DP)|21.08.25.|

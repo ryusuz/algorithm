@@ -86,3 +86,4 @@
 |20|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week12_7.cpp">JadenCase 문자열 만들기</a>||21.08.15.|
 |21|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13.cpp">최솟값 만들기||21.08.25.|
 |22|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13_2.cpp">땅따먹기|동적 프로그래밍(DP)|21.08.25.|
+|23|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13_3.cpp">다음 큰 숫자||21.08.30.|

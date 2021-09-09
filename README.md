@@ -87,3 +87,5 @@
 |21|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13.cpp">최솟값 만들기||21.08.25.|
 |22|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13_2.cpp">땅따먹기|동적 프로그래밍(DP)|21.08.25.|
 |23|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13_3.cpp">다음 큰 숫자||21.08.30.|
+|24|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13_5.cpp">올바른 괄호|||
+|25|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week15_1.cpp">거리두기 확인하기|BFS|21.09.08.|

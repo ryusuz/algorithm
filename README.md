@@ -1,6 +1,8 @@
 # 💻 프로그래머스 문제풀이
+<p>프로그래머스로 코테 부시기 👊🏻👊🏻👊🏻 </p>
+</br>
 
-<h3> 🏅 Level 1 </h3></br>
+## 🏅 Level 1 </br>
 
 ||문제|비고|날짜|
 |:---:|:---:|:---:|:---:|
@@ -60,7 +62,7 @@
 
 </br>
   
-<h3> 🏅 Level 2 </h3></br>
+## 🏅 Level 2 </br>
 
 ||문제|비고|날짜|
 |:---:|:---:|:---:|:---:|
@@ -90,3 +92,5 @@
 |24|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13_5.cpp">올바른 괄호|||
 |25|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week15_1.cpp">거리두기 확인하기|BFS|21.09.08.|
 |26|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week15_2.cpp">카카오프렌즈 컬러링북|BFS|21.09.09.|
+
+ </br>

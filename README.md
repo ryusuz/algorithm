@@ -92,6 +92,6 @@
 |24|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week13_5.cpp">올바른 괄호|||
 |25|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week15_1.cpp">거리두기 확인하기|BFS|21.09.08.|
 |26|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week15_2.cpp">카카오프렌즈 컬러링북|BFS|21.09.09.|
-|27|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_1.cpp">행렬 테두리 회전하기|B|21.09.29.|
+|27|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_1.cpp">행렬 테두리 회전하기||21.09.29.|
 
  </br>

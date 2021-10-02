@@ -97,3 +97,10 @@
 |29|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_3.cpp">타겟 넘버|DFS|21.09.30.|
 
  </br>
+
+## ✏ Special </br>
+||문제|비고|날짜|
+|:---:|:---:|:---:|:---:|
+|1|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_4.cpp">홀수 개인 문자는 몇 개|해시|21.10.02.|
+|2|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_5.cpp">제일 큰 숫자||21.10.02.|
+|3|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_6.cpp">여행|BFS|21.10.02.|

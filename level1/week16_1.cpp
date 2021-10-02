@@ -1,4 +1,4 @@
-// week16-1 복서 정렬하기(위클리 6주차)
+// week16-1 복서 정렬하기(위클리 8주차)
 #include <string>
 #include <vector>
 #include <iostream>

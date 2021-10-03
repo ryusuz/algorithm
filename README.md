@@ -109,10 +109,10 @@
 |5|Level 1|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/select/005.sql">동물의 아이디와 이름|SELECT||
 |6|Level 1|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/select/006.sql">여러 기준으로 정렬하기|SELECT||
 |7|Level 1|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/select/007.sql">상위 n개 레코드|SELECT||
-|8|Level 1|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/summaxmin/001.sql.sql">최댓값 구하기|MAX||
-|9|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/summaxmin/002.sql.sql">최솟값 구하기|MIN||
-|10|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/summaxmin/003.sql.sql">동물 수 구하기|COUNT||
-|11|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/summaxmin/004.sql.sql">중복 제거하기|MAX, Distinct||
+|8|Level 1|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/summaxmin/001.sql.">최댓값 구하기|MAX||
+|9|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/summaxmin/002.sql">최솟값 구하기|MIN||
+|10|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/summaxmin/003.sql">동물 수 구하기|COUNT||
+|11|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/summaxmin/004.sql">중복 제거하기|MAX, Distinct||
 |12|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/groupby/001.sql">고양이와 개는 몇 마리 있을까|GROUP BY||
 |13|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/groupby/002.sql">동명 동물 수 찾기|GROUP BY||
 |14|Level 2|<a href="https://github.com/ryusuz/algorithm_programmers/blob/master/sql/kit/groupby/003.sql">입양시각 구하기(1)|GROUP BY||

@@ -31,6 +31,7 @@ vector<int> solution(int n, vector<string> words) {
     return answer;
 }
 
+// 다른 사람 풀이
 vector<int> solution(int n, vector<string> words) {
     int len=words.size();
     map<string,int> h;

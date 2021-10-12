@@ -96,6 +96,9 @@
 |27|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_1.cpp">행렬 테두리 회전하기||21.09.29.|
 |28|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_2.cpp">게임 맵 최단거리|BFS|21.09.30.|
 |29|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_3.cpp">타겟 넘버|DFS|21.09.30.|
+|30|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week17_1.cpp">괄호 변환|재귀|21.10.06.|
+|31|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week17_2.cpp">튜플||21.10.06.|
+|32|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/예상대진표.cpp">예상대진표||21.10.06.|
 
  </br>
   

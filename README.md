@@ -102,6 +102,7 @@
 |33|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/뉴스_클러스터링.cpp">뉴스 클러스터링||21.10.07.|
 |34|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/영어_끝말잇기.cpp">영어 끝말잇기||21.10.07.|
 |35|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/삼각달팽이.cpp">삼각달팽이||21.10.12.|
+|36|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/단체사진찍기">단체사진 찍기||21.10.12.|
 
  </br>
   

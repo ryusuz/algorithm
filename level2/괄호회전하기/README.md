@@ -8,6 +8,8 @@
   - C++ : **empty()**
   - JAVA : **isEmpty()**
 - 자바에서 스택 선언할 때 제네릭에 자료형 클래스 명시하기 
+- 자바에서 for-each문을 사용할 때, String 타입의 변수를 char 타입으로 사용할 수 없다
+  - **str.toCharArray()** 사용
 
 </br>
 
@@ -41,6 +43,12 @@ st.pop();
 st.isEmpty();   // c++과 다름!
 st.size();
 st.contains(1);
+
+// String 객체 for-each문 사용 시!
+String str = "괄호 회전하기";
+for (char c : str.toCharArray()) {
+  ...
+}
 ```
 
 </br>

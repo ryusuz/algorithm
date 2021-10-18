@@ -59,7 +59,9 @@
 |51|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week11_26.cpp">행렬의 덧셈||21.08.08.|
 |52|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week12.cpp">위클리 2주차||21.08.15.|
 |53|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week13.cpp">위클리 4주차||21.08.25.|
-|54|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week16_1.cpp">복서 정렬하기 위클리 6주차||21.10.02.|
+|54|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week16_1.cpp">위클리 6주차 복서 정렬하기||21.10.02.|
+|55|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week16_1.cpp">위클리 8주차||21.10.02.|
+|56|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week16_3.cpp">없는 숫자 더하기||21.10.03.|
 
 </br>
   
@@ -105,6 +107,14 @@
 |36|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/단체사진찍기">단체사진 찍기|순열|21.10.12.|
 
  </br>
+  
+## 🏅 Level 3 </br>
+
+||문제|비고|날짜|
+|:---:|:---:|:---:|:---:|
+|1|<a href="https://github.com/ryusuz/algorithm/blob/master/level3/섬연결하기.cpp">섬 연결하기</a>|크리스컬(MST)|21.10.18.| 
+  
+</br>
   
 ## ✏ SQL </br>
 ||레벨|문제|비고|날짜|

@@ -105,6 +105,7 @@
 |34|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/영어_끝말잇기.cpp">영어 끝말잇기||21.10.07.|
 |35|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/삼각달팽이.cpp">삼각달팽이||21.10.12.|
 |36|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/단체사진찍기">단체사진 찍기|순열|21.10.12.|
+|37|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/괄호회전하기">괄호 회전하기|스택|21.10.18.|
 
  </br>
   
@@ -112,7 +113,7 @@
 
 ||문제|비고|날짜|
 |:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm/blob/master/level3/섬연결하기.cpp">섬 연결하기</a>|크리스컬(MST)|21.10.18.| 
+|1|<a href="https://github.com/ryusuz/algorithm/blob/master/level3/섬연결하기.cpp">섬 연결하기</a>|크리스컬(MST)|21.10.17.| 
   
 </br>
   

@@ -1,6 +1,6 @@
 # [Level 2] 프린터
 <h3> ⭐ 큐 사용해서 풀었음 </h3>
-<h3> ⭐ JAVA에서 큐 사용할 때 연결리스트 객체로!! Queue<Integer> q = new LinkedList<>(); </h3>
+<h3> ⭐ JAVA에서 큐 사용할 때 연결리스트 객체로!! >> Queue<Integer> q = new LinkedList<>(); </h3>
 </br>
   
 - 큐의 **최상단값**을 출력하는 함수

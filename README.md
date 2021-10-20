@@ -106,6 +106,7 @@
 |35|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/삼각달팽이.cpp">삼각달팽이||21.10.12.|
 |36|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/단체사진찍기">단체사진 찍기|순열|21.10.12.|
 |37|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/괄호회전하기">괄호 회전하기|스택|21.10.18.|
+|38|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/프린터">프린터|큐|21.10.20.|
 
  </br>
   

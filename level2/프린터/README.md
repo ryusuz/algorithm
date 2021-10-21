@@ -1,6 +1,8 @@
 # [Level 2] 프린터
 <h3> ⭐ 큐 사용해서 풀었음 </h3>
-
+<h3> ⭐ JAVA에서 큐 사용할 때 연결리스트 객체로!! >> Queue<Integer> q = new LinkedList<>(); </h3>
+</br>
+  
 - 큐의 **최상단값**을 출력하는 함수
   - C++ : **top()**
   - JAVA : **peek()**
@@ -12,6 +14,45 @@
   - JAVA : **remove()**
 
 </br>
+  
+## C++
+```c++
+#include <queue>
+
+queue<int> q;
+
+q.push(1);
+q.front();
+q.back();
+q.pop();
+q.empty();
+q.size();
+```
+
+</br>
+
+## JAVA
+```java
+import java.util.Queue
+
+// 제네릭에 자료형 클래스 타입 명시!! Integer, String, Character, ...
+Queue<Integer> q = new LinkedList<>();
+
+q.add(1);   // 큐 크기 넘어가면 예외처리
+q.offer(1); // 넘어가면 false 반환
+  
+q.peek();      // c++과 다름!
+
+q.remove();
+q.poll();
+
+q.isEmpty();   // c++과 다름!
+q.size();
+q.clear();
+```
+
+</br>
+
 
 ## 📌 문제
 > 일반적인 프린터는 인쇄 요청이 들어온 순서대로 인쇄합니다. 그렇기 때문에 중요한 문서가 나중에 인쇄될 수 있습니다. 이런 문제를 보완하기 위해 중요도가 높은 문서를 먼저 인쇄하는 프린터를 개발했습니다. 이 새롭게 개발한 프린터는 아래와 같은 방식으로 인쇄 작업을 수행합니다.

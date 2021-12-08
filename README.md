@@ -107,6 +107,8 @@
 |36|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/단체사진찍기">단체사진 찍기|순열|21.10.12.|
 |37|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/괄호회전하기">괄호 회전하기|스택|21.10.18.|
 |38|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/프린터">프린터|큐|21.10.20.|
+|39|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/가장큰수">가장큰수||21.11.04.|
+|40|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/주삭가격">주식가격||21.11.11.|
 
  </br>
   
@@ -114,7 +116,9 @@
 
 ||문제|비고|날짜|
 |:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm/blob/master/level3/섬연결하기.cpp">섬 연결하기</a>|크리스컬(MST)|21.10.17.| 
+|1|<a href="https://github.com/ryusuz/algorithm/blob/master/level3/섬연결하기">섬 연결하기</a>|크리스컬(MST)|21.10.17.| 
+|2|<a href="https://github.com/ryusuz/algorithm/blob/master/level3/네트워크">네트워크</a>|BFS/DFS|21.11.18.| 
+|3|<a href="https://github.com/ryusuz/algorithm/blob/master/level3/정수삼각형.cpp">정수삼각형</a>|DP|21.11.18.| 
   
 </br>
   

@@ -109,6 +109,7 @@
 |38|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/프린터">프린터|큐|21.10.20.|
 |39|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/가장큰수">가장큰수||21.11.04.|
 |40|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/캐시">캐시|deque|21.12.08.|
+|41|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/메뉴리뉴얼">메뉴리뉴얼|DFS|22.01.15.|
 
  </br>
   

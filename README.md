@@ -62,7 +62,7 @@
 |54|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week16_1.cpp">위클리 6주차 복서 정렬하기||21.10.02.|
 |55|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week16_1.cpp">위클리 8주차||21.10.02.|
 |56|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/week16_3.cpp">없는 숫자 더하기||21.10.03.|
-
+|57|<a href="https://github.com/ryusuz/algorithm/blob/master/level1/신고결과받기">신고 결과 받기||22.01.16.|
 </br>
   
 ## 🏅 Level 2 </br>

@@ -1,0 +1,7 @@
+-- 동명 동물 수 찾기 --
+
+SELECT NAME, count(NAME)
+FROM ANIMAL_INS
+GROUP BY NAME
+HAVING count(NAME) > 1
+ORDER BY NAME

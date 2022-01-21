@@ -100,19 +100,19 @@
 |29|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week16_3.cpp">타겟 넘버|DFS|21.09.30.|
 |30|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week17_1.cpp">괄호 변환|재귀|21.10.05.|
 |31|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/week17_2.cpp">튜플||21.10.05.|
-|32|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/예상대진표.cpp">예상대진표||21.10.05.|
+|32|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/예상대진표.cpp">예상 대진표||21.10.05.|
 |33|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/뉴스_클러스터링.cpp">뉴스 클러스터링||21.10.07.|
 |34|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/영어_끝말잇기.cpp">영어 끝말잇기||21.10.07.|
-|35|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/삼각달팽이.cpp">삼각달팽이||21.10.12.|
+|35|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/삼각달팽이.cpp">삼각 달팽이||21.10.12.|
 |36|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/단체사진찍기">단체사진 찍기|순열|21.10.12.|
 |37|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/괄호회전하기">괄호 회전하기|스택|21.10.18.|
 |38|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/프린터">프린터|큐|21.10.20.|
-|39|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/가장큰수">가장큰수||21.11.04.|
+|39|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/가장큰수">가장 큰 수||21.11.04.|
 |40|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/캐시">캐시|deque|21.12.08.|
-|41|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/메뉴리뉴얼">메뉴리뉴얼|DFS|22.01.15.|
+|41|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/메뉴리뉴얼">메뉴 리뉴얼|DFS|22.01.15.|
 |42|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/메뉴리뉴얼">점프와 순간이동||22.01.20.|
-|43|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/파일명정렬">파일명정렬||22.01.21.|
-|44|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/방금그곡">방금그곡||22.01.21.|
+|43|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/파일명정렬">파일명 정렬||22.01.21.|
+|44|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/방금그곡">방금 그 곡||22.01.21.|
   
  </br>
   

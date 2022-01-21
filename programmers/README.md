@@ -113,7 +113,7 @@
 |42|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/메뉴리뉴얼">점프와 순간이동||22.01.20.|
 |43|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/파일명정렬">파일명 정렬||22.01.21.|
 |44|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/방금그곡">방금 그 곡||22.01.21.|
-|45|<a href="https://github.com/ryusuz/algorithm/blob/master/level2/가장큰정사각형찾기">가장 큰 정사각형 찾기||22.01.21.|  
+|45|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/가장큰정사각형찾기">가장 큰 정사각형 찾기||22.01.21.|  
  </br>
   
 ## 🏅 Level 3 </br>

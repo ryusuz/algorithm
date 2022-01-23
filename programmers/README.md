@@ -114,7 +114,9 @@
 |43|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/파일명정렬">파일명 정렬||22.01.21.|
 |44|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방금그곡">방금 그 곡||22.01.21.|
 |45|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/가장큰정사각형찾기">가장 큰 정사각형 찾기|DP|22.01.21.|  
- </br>
+|46|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|
+
+  </br>
   
 ## 🏅 Level 3 </br>
 

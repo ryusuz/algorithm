@@ -117,7 +117,8 @@
 |46|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/모음사전">모음 사전|경우의 수|22.01.23.|
 |47|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/소수찾기">소수 찾기|재귀/순열|22.01.23.|
 |48|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|  
-  </br>
+|49|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방문 길이">방문 길이||22.01.28.|
+</br>
   
 ## 🏅 Level 3 </br>
 

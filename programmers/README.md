@@ -110,13 +110,15 @@
 |39|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/가장큰수">가장 큰 수||21.11.04.|
 |40|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/캐시">캐시|deque|21.12.08.|
 |41|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/메뉴리뉴얼">메뉴 리뉴얼|DFS|22.01.15.|
-|42|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/메뉴리뉴얼">점프와 순간이동||22.01.20.|
+|42|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/점프와순간이동">점프와 순간이동||22.01.20.|
 |43|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/파일명정렬">파일명 정렬||22.01.21.|
 |44|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방금그곡">방금 그 곡||22.01.21.|
 |45|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/가장큰정사각형찾기">가장 큰 정사각형 찾기|DP|22.01.21.|  
-|46|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|
-
-  </br>
+|46|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/모음사전">모음 사전|경우의 수|22.01.23.|
+|47|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/소수찾기">소수 찾기|재귀/순열|22.01.23.|
+|48|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|  
+|49|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방문 길이">방문 길이||22.01.28.|
+</br>
   
 ## 🏅 Level 3 </br>
 

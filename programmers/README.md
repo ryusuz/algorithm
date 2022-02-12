@@ -118,6 +118,8 @@
 |47|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/소수찾기">소수 찾기|재귀/순열|22.01.23.|
 |48|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|  
 |49|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방문 길이">방문 길이||22.01.28.|
+|50|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/카펫">카펫||22.02.12|
+  
 </br>
   
 ## 🏅 Level 3 </br>

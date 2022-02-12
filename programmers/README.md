@@ -119,6 +119,9 @@
 |48|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|  
 |49|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방문 길이">방문 길이||22.01.28.|
 |50|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/카펫">카펫||22.02.12|
+|51|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/조이스틱">카펫||22.02.12|
+|52|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/k진수에서소수개수구하기">k진수에서 소수 개수 구하기||22.02.12|
+  
   
 </br>
   

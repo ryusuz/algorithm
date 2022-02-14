@@ -4,7 +4,7 @@
 
 ## 🏅 Level 1 </br>
 
-||문제|비고|날짜|
+|No.|문제|비고|날짜|
 |:---:|:---:|:---:|:---:|
 |1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level1/week1_1.cpp">크레인 인형 뽑기</a>|
 |2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level1/week1_2.cpp">로또의 최고 순위와 최저 순위|
@@ -67,7 +67,7 @@
   
 ## 🏅 Level 2 </br>
 
-||문제|비고|날짜|
+||No.|문제|비고|날짜|
 |:---:|:---:|:---:|:---:|:--:|
 ||1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week1.cpp">다리를 지나는 트럭</a>|
 ||2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week2.cpp">더 맵게</a>|힙|
@@ -128,7 +128,7 @@
   
 ## 🏅 Level 3 </br>
 
-||문제|비고|날짜|
+||No.|문제|비고|날짜|
 |:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/섬연결하기">섬 연결하기</a>|크리스컬(MST)|21.10.17.| 
 ||2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/네트워크">네트워크</a>|BFS/DFS|21.11.18.| 
@@ -138,32 +138,32 @@
 </br>
   
 ## ✏ SQL </br>
-||레벨|문제|비고|날짜|
-|:--:|:---:|:---:|:---:|:---:|
-|1|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/001.sql">모든 레코드 조회하기|SELECT||
-|2|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/002.sql">역순 정리하기|SELECT||
-|3|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/003.sql">아픈 동물 찾기|SELECT||
-|4|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/004.sql">어린 동물 찾기|SELECT||
-|5|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/005.sql">동물의 아이디와 이름|SELECT||
-|6|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/006.sql">여러 기준으로 정렬하기|SELECT||
-|7|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/007.sql">상위 n개 레코드|SELECT||
-|8|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/summaxmin/001.sql.">최댓값 구하기|MAX||
-|9|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/summaxmin/002.sql">최솟값 구하기|MIN||
-|10|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/summaxmin/003.sql">동물 수 구하기|COUNT||
-|11|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/summaxmin/004.sql">중복 제거하기|MAX, Distinct||
-|12|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/groupby/001.sql">고양이와 개는 몇 마리 있을까|GROUP BY||
-|13|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/groupby/002.sql">동명 동물 수 찾기|GROUP BY||
-|14|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/groupby/003.sql">입양시각 구하기(1)|GROUP BY||
-|15|Level 4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/groupby/004.sql">입양시각 구하기(2)|GROUP BY||
-|16|Level 3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/join/001.sql">없어진 기록 찾기|JOIN|21.10.03.|
-|17|Level 3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/join/002.sql">있었는데요 없었습니다|JOIN|21.10.03.|
-|18|Level 3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/join/003.sql">오랜 기간 보호한 동물(1)|JOIN|21.10.03.|
-|19|Level 4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/join/004.sql">보호소에서 중성화한 동물|JOIN|21.10.03.|
+||No.|레벨|문제|비고|날짜|
+|:--:|:--:|:---:|:---:|:---:|:---:|
+||1|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/001.sql">모든 레코드 조회하기|SELECT||
+||2|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/002.sql">역순 정리하기|SELECT||
+||3|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/003.sql">아픈 동물 찾기|SELECT||
+||4|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/004.sql">어린 동물 찾기|SELECT||
+||5|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/005.sql">동물의 아이디와 이름|SELECT||
+||6|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/006.sql">여러 기준으로 정렬하기|SELECT||
+||7|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/select/007.sql">상위 n개 레코드|SELECT||
+||8|Level 1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/summaxmin/001.sql.">최댓값 구하기|MAX||
+||9|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/summaxmin/002.sql">최솟값 구하기|MIN||
+||10|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/summaxmin/003.sql">동물 수 구하기|COUNT||
+||11|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/summaxmin/004.sql">중복 제거하기|MAX, Distinct||
+||12|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/groupby/001.sql">고양이와 개는 몇 마리 있을까|GROUP BY||
+||13|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/groupby/002.sql">동명 동물 수 찾기|GROUP BY||
+||14|Level 2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/groupby/003.sql">입양시각 구하기(1)|GROUP BY||
+||15|Level 4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/groupby/004.sql">입양시각 구하기(2)|GROUP BY||
+||16|Level 3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/join/001.sql">없어진 기록 찾기|JOIN|21.10.03.|
+||17|Level 3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/join/002.sql">있었는데요 없었습니다|JOIN|21.10.03.|
+||18|Level 3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/join/003.sql">오랜 기간 보호한 동물(1)|JOIN|21.10.03.|
+||19|Level 4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/sql/kit/join/004.sql">보호소에서 중성화한 동물|JOIN|21.10.03.|
 
  </br>
 
-## ✏ Special </br>
-||문제|비고|날짜|
+## ✏ etc </br>
+|No.|문제|비고|날짜|
 |:---:|:---:|:---:|:---:|
 |1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week16_4.cpp">홀수 개인 문자는 몇 개|해시|21.10.02.|
 |2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week16_5.cpp">제일 큰 숫자||21.10.02.|

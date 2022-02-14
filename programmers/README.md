@@ -121,7 +121,7 @@
 |50|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/카펫">카펫||22.02.12|
 |51|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/조이스틱">조이스틱||22.02.12|
 |52|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/k진수에서소수개수구하기">k진수에서 소수 개수 구하기||22.02.12|
-|53|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/쿼드압축후개수세기">|쿼드압축 후 개수 세기|22.02.14|
+|53|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/쿼드압축후개수세기">쿼드압축 후 개수 세기|분할정복|22.02.14|
   
   
 </br>

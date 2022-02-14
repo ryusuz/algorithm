@@ -68,60 +68,60 @@
 ## 🏅 Level 2 </br>
 
 ||문제|비고|날짜|
-|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week1.cpp">다리를 지나는 트럭</a>|
-|2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week2.cpp">더 맵게</a>|힙|
-|3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week5.cpp">짝 지어 제거하기</a>|
-|4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week6.cpp">스킬트리</a>|
-|5|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week7_1.cpp">기능개발</a>|스택/큐|
-|6|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week7_2.cpp">문자열 압축</a>|
-|7|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week8_1.cpp">전화번호 목록</a>|해시|
-|8|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week10.cpp">수식 최대화</a>||
-|9|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week9_2.cpp">큰 수 만들기</a>||
-|10|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week9_1/week9_1.cpp">순위검색</a>|해시|21.08.04.|
-|11|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week3/week3.cpp">배달</a>|다익스트라|21.08.10.|
-|12|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week8_2/week8_2.cpp">위장</a>|해시|21.08.11.|
-|13|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week11.cpp">124 나라</a>||21.08.11.|
-|14|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12.cpp">N개의 최소공배수</a>||21.08.11.|
-|15|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_2.cpp">숫자의 표현</a>||21.08.12.|
-|16|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_4.cpp">최댓값과 최솟값</a>||21.08.12.|
-|17|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_3.cpp">오픈채팅방</a>|해시|21.08.12.|
-|18|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_5/week12_5.cpp">피보나치 수</a>||21.08.13.|
-|19|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_6.cpp">행렬의 곱셈</a>||21.08.15.|
-|20|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_7.cpp">JadenCase 문자열 만들기</a>||21.08.15.|
-|21|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13.cpp">최솟값 만들기||21.08.25.|
-|22|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13_2.cpp">땅따먹기|동적 프로그래밍(DP)|21.08.25.|
-|23|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13_3.cpp">다음 큰 숫자||21.08.30.|
-|24|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13_5.cpp">올바른 괄호|||
-|25|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week15_1.cpp">거리두기 확인하기|BFS|21.09.08.|
-|26|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week15_2.cpp">카카오프렌즈 컬러링북|BFS|21.09.09.|
-|27|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week16_1.cpp">행렬 테두리 회전하기||21.09.29.|
-|28|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week16_2.cpp">게임 맵 최단거리|BFS|21.09.30.|
-|29|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week16_3.cpp">타겟 넘버|DFS|21.09.30.|
-|30|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week17_1.cpp">괄호 변환|재귀|21.10.05.|
-|31|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week17_2.cpp">튜플||21.10.05.|
-|32|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/예상대진표.cpp">예상 대진표||21.10.05.|
-|33|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/뉴스_클러스터링.cpp">뉴스 클러스터링||21.10.07.|
-|34|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/영어_끝말잇기.cpp">영어 끝말잇기||21.10.07.|
-|35|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/삼각달팽이.cpp">삼각 달팽이||21.10.12.|
-|36|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/단체사진찍기">단체사진 찍기|순열|21.10.12.|
-|37|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/괄호회전하기">괄호 회전하기|스택|21.10.18.|
-|38|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/프린터">프린터|큐|21.10.20.|
-|39|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/가장큰수">가장 큰 수||21.11.04.|
-|40|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/캐시">캐시|deque|21.12.08.|
-|41|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/메뉴리뉴얼">메뉴 리뉴얼|DFS|22.01.15.|
-|42|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/점프와순간이동">점프와 순간이동||22.01.20.|
-|43|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/파일명정렬">파일명 정렬||22.01.21.|
-|44|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방금그곡">방금 그 곡||22.01.21.|
-|45|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/가장큰정사각형찾기">가장 큰 정사각형 찾기|DP|22.01.21.|  
-|46|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/모음사전">모음 사전|경우의 수|22.01.23.|
-|47|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/소수찾기">소수 찾기|재귀/순열|22.01.23.|
-|48|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|  
-|49|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방문 길이">방문 길이||22.01.28.|
-|50|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/카펫">카펫||22.02.12|
-|51|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/조이스틱">조이스틱||22.02.12|
-|52|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/k진수에서소수개수구하기">k진수에서 소수 개수 구하기||22.02.12|
-|53|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/쿼드압축후개수세기">쿼드압축 후 개수 세기|분할정복|22.02.14|
+|:---:|:---:|:---:|:---:|:--:|
+||1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week1.cpp">다리를 지나는 트럭</a>|
+||2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week2.cpp">더 맵게</a>|힙|
+||3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week5.cpp">짝 지어 제거하기</a>|
+||4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week6.cpp">스킬트리</a>|
+||5|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week7_1.cpp">기능개발</a>|스택/큐|
+||6|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week7_2.cpp">문자열 압축</a>|
+||7|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week8_1.cpp">전화번호 목록</a>|해시|
+||8|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week10.cpp">수식 최대화</a>||
+||9|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week9_2.cpp">큰 수 만들기</a>||
+||10|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week9_1/week9_1.cpp">순위검색</a>|해시|21.08.04.|
+||11|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week3/week3.cpp">배달</a>|다익스트라|21.08.10.|
+||12|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week8_2/week8_2.cpp">위장</a>|해시|21.08.11.|
+||13|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week11.cpp">124 나라</a>||21.08.11.|
+||14|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12.cpp">N개의 최소공배수</a>||21.08.11.|
+||15|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_2.cpp">숫자의 표현</a>||21.08.12.|
+||16|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_4.cpp">최댓값과 최솟값</a>||21.08.12.|
+||17|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_3.cpp">오픈채팅방</a>|해시|21.08.12.|
+||18|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_5/week12_5.cpp">피보나치 수</a>||21.08.13.|
+||19|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_6.cpp">행렬의 곱셈</a>||21.08.15.|
+||20|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_7.cpp">JadenCase 문자열 만들기</a>||21.08.15.|
+||21|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13.cpp">최솟값 만들기||21.08.25.|
+||22|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13_2.cpp">땅따먹기|동적 프로그래밍(DP)|21.08.25.|
+||23|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13_3.cpp">다음 큰 숫자||21.08.30.|
+||24|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13_5.cpp">올바른 괄호|||
+||25|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week15_1.cpp">거리두기 확인하기|BFS|21.09.08.|
+||26|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week15_2.cpp">카카오프렌즈 컬러링북|BFS|21.09.09.|
+||27|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week16_1.cpp">행렬 테두리 회전하기||21.09.29.|
+||28|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week16_2.cpp">게임 맵 최단거리|BFS|21.09.30.|
+||29|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week16_3.cpp">타겟 넘버|DFS|21.09.30.|
+||30|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week17_1.cpp">괄호 변환|재귀|21.10.05.|
+||31|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week17_2.cpp">튜플||21.10.05.|
+||32|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/예상대진표.cpp">예상 대진표||21.10.05.|
+||33|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/뉴스_클러스터링.cpp">뉴스 클러스터링||21.10.07.|
+||34|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/영어_끝말잇기.cpp">영어 끝말잇기||21.10.07.|
+||35|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/삼각달팽이.cpp">삼각 달팽이||21.10.12.|
+||36|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/단체사진찍기">단체사진 찍기|순열|21.10.12.|
+||37|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/괄호회전하기">괄호 회전하기|스택|21.10.18.|
+||38|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/프린터">프린터|큐|21.10.20.|
+||39|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/가장큰수">가장 큰 수||21.11.04.|
+||40|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/캐시">캐시|deque|21.12.08.|
+||41|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/메뉴리뉴얼">메뉴 리뉴얼|DFS|22.01.15.|
+||42|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/점프와순간이동">점프와 순간이동||22.01.20.|
+||43|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/파일명정렬">파일명 정렬||22.01.21.|
+||44|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방금그곡">방금 그 곡||22.01.21.|
+||45|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/가장큰정사각형찾기">가장 큰 정사각형 찾기|DP|22.01.21.|  
+|✅|46|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/모음사전">모음 사전|경우의 수|22.01.23.|
+||47|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/소수찾기">소수 찾기|재귀/순열|22.01.23.|
+||48|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|  
+||49|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방문 길이">방문 길이||22.01.28.|
+||50|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/카펫">카펫||22.02.12|
+|✅|51|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/조이스틱">조이스틱||22.02.12|
+||52|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/k진수에서소수개수구하기">k진수에서 소수 개수 구하기||22.02.12|
+|✅|53|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/쿼드압축후개수세기">쿼드압축 후 개수 세기|분할정복|22.02.14|
   
   
 </br>
@@ -129,11 +129,11 @@
 ## 🏅 Level 3 </br>
 
 ||문제|비고|날짜|
-|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/섬연결하기">섬 연결하기</a>|크리스컬(MST)|21.10.17.| 
-|2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/네트워크">네트워크</a>|BFS/DFS|21.11.18.| 
-|3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/정수삼각형.cpp">정수삼각형</a>|DP|21.11.18.| 
-|4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/단어변환">단어변환</a>|DFS|21.12.08.| 
+|:---:|:---:|:---:|:---:|:---:|
+||1|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/섬연결하기">섬 연결하기</a>|크리스컬(MST)|21.10.17.| 
+||2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/네트워크">네트워크</a>|BFS/DFS|21.11.18.| 
+||3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/정수삼각형.cpp">정수삼각형</a>|DP|21.11.18.| 
+||4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/단어변환">단어변환</a>|DFS|21.12.08.| 
   
 </br>
   

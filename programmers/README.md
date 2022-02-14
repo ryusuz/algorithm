@@ -122,6 +122,7 @@
 |✅|51|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/조이스틱">조이스틱||22.02.12|
 ||52|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/k진수에서소수개수구하기">k진수에서 소수 개수 구하기||22.02.12|
 |✅|53|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/쿼드압축후개수세기">쿼드압축 후 개수 세기|분할정복/재귀|22.02.14|
+||54|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/구명보트">구명보트|그리디|22.02.14|
   
   
 </br>

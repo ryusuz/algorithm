@@ -123,6 +123,8 @@
 ||52|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/k진수에서소수개수구하기">k진수에서 소수 개수 구하기||22.02.12|
 |✅|53|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/쿼드압축후개수세기">쿼드압축 후 개수 세기|분할정복/재귀|22.02.14|
 ||54|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/구명보트">구명보트|그리디|22.02.14|
+||55|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/h-index">h-index|정렬|22.02.15|
+|✅|56|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/2개이하로다른비트">2개 이하로 다른 비트|비트연산|22.02.15|
   
   
 </br>

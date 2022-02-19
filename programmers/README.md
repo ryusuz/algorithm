@@ -125,6 +125,8 @@
 ||54|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/구명보트">구명보트|그리디|22.02.14|
 ||55|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/h-index">h-index|정렬|22.02.15|
 |✅|56|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/2개이하로다른비트">2개 이하로 다른 비트|비트연산|22.02.15|
+|✅|57|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/n^2배열자르기">n^2 배열 자르기||22.02.18|
+||58|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/주차요금계산">주차요금계산||22.02.19|
   
   
 </br>

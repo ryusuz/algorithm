@@ -79,14 +79,14 @@
 ||8|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week10.cpp">수식 최대화</a>||
 ||9|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week9_2.cpp">큰 수 만들기</a>||
 ||10|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week9_1/week9_1.cpp">순위검색</a>|해시|21.08.04.|
-||11|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week3/week3.cpp">배달</a>|다익스트라|21.08.10.|
-||12|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week8_2/week8_2.cpp">위장</a>|해시|21.08.11.|
+|✅|11|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week3/week3.cpp">배달</a>|다익스트라|21.08.10.|
+|✅|12|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week8_2/week8_2.cpp">위장</a>|해시|21.08.11.|
 ||13|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week11.cpp">124 나라</a>||21.08.11.|
 ||14|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12.cpp">N개의 최소공배수</a>||21.08.11.|
 ||15|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_2.cpp">숫자의 표현</a>||21.08.12.|
 ||16|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_4.cpp">최댓값과 최솟값</a>||21.08.12.|
 ||17|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_3.cpp">오픈채팅방</a>|해시|21.08.12.|
-||18|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_5/week12_5.cpp">피보나치 수</a>||21.08.13.|
+|✅|18|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_5/week12_5.cpp">피보나치 수</a>||21.08.13.|
 ||19|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_6.cpp">행렬의 곱셈</a>||21.08.15.|
 ||20|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week12_7.cpp">JadenCase 문자열 만들기</a>||21.08.15.|
 ||21|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/week13.cpp">최솟값 만들기||21.08.25.|

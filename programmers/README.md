@@ -128,8 +128,8 @@
 |✅|57|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/n^2배열자르기">n^2 배열 자르기||22.02.18|
 ||58|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/주차요금계산">주차요금계산||22.02.19|
 ||59|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/피로도">피로도|완전탐색|22.02.19|  
-|✅|60|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/전력망을둘로나누기">전력망을 둘로 나누기|DFS/완전탐색|22.02.19|  
-  
+|✅|60|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/전력망을둘로나누기">전력망을 둘로 나누기|DFS/완전탐색|22.02.19|
+|✅|61|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/교점에별만들기">교점에 별 만들기||22.02.20|  
 </br>
   
 ## 🏅 Level 3 </br>

@@ -130,7 +130,7 @@
 ||59|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/피로도">피로도|완전탐색|22.02.19|  
 |✅|60|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/전력망을둘로나누기">전력망을 둘로 나누기|DFS/완전탐색|22.02.19|
 |✅|61|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/교점에별만들기">교점에 별 만들기||22.02.20|
-|✅|62|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/양궁대회">양궁대회||22.02.22|  
+|✅|62|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/양궁대회">양궁대회|DFS/완전탐색|22.02.22|  
 
 </br>
   

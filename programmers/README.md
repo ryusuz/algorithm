@@ -119,23 +119,23 @@
 ||48|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/소수찾기">소수 찾기|재귀/순열|22.01.23.|
 ||49|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/압축">압축|스트링|22.01.23.|  
 ||50|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/방문 길이">방문 길이||22.01.28.|
-||51|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/n진수게임">n진수 게임||22.02.04|
-||52|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/카펫">카펫||22.02.12|
-|✅|53|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/조이스틱">조이스틱||22.02.12|
-||54|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/k진수에서소수개수구하기">k진수에서 소수 개수 구하기||22.02.12|
-|✅|55|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/쿼드압축후개수세기">쿼드압축 후 개수 세기|분할정복/재귀|22.02.14|
-||56|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/구명보트">구명보트|그리디|22.02.14|
-||57|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/이진변환반복하기">이진 변환 반복하기||22.02.14|
-||58|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/h-index">h-index|정렬|22.02.15|
-|✅|59|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/2개이하로다른비트">2개 이하로 다른 비트|비트연산|22.02.15|
-|✅|60|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/n^2배열자르기">n^2 배열 자르기||22.02.18|
-||61|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/주차요금계산">주차요금계산||22.02.19|
-||62|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/피로도">피로도|완전탐색|22.02.19|  
-|✅|63|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/전력망을둘로나누기">전력망을 둘로 나누기|DFS/완전탐색|22.02.19|
-|✅|64|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/교점에별만들기">교점에 별 만들기||22.02.20|
-|✅|65|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/양궁대회">양궁대회|DFS/완전탐색|22.02.22|
-|✅|66|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/프렌즈4블록">프렌즈4블록||22.02.23|
-|✅|67|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/빛의경로사이클">빛의경로사이클||22.02.25|
+||51|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/n진수게임">n진수 게임||22.02.04.|
+||52|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/카펫">카펫||22.02.12.|
+|✅|53|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/조이스틱">조이스틱||22.02.12.|
+||54|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/k진수에서소수개수구하기">k진수에서 소수 개수 구하기||22.02.12.|
+|✅|55|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/쿼드압축후개수세기">쿼드압축 후 개수 세기|분할정복/재귀|22.02.14.|
+||56|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/구명보트">구명보트|그리디|22.02.14.|
+||57|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/이진변환반복하기">이진 변환 반복하기||22.02.14.|
+||58|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/h-index">h-index|정렬|22.02.15.|
+|✅|59|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/2개이하로다른비트">2개 이하로 다른 비트|비트연산|22.02.15.|
+|✅|60|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/n^2배열자르기">n^2 배열 자르기||22.02.18.|
+||61|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/주차요금계산">주차요금계산||22.02.19.|
+||62|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/피로도">피로도|완전탐색|22.02.19.| 
+|✅|63|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/전력망을둘로나누기">전력망을 둘로 나누기|DFS/완전탐색|22.02.19.|
+|✅|64|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/교점에별만들기">교점에 별 만들기||22.02.20.|
+|✅|65|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/양궁대회">양궁대회|DFS/완전탐색|22.02.22.|
+|✅|66|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/프렌즈4블록">프렌즈4블록||22.02.23.|
+|✅|67|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level2/빛의경로사이클">빛의경로사이클||22.02.25.|
 
 </br>
   

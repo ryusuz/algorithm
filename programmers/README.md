@@ -147,7 +147,7 @@
 ||2|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/네트워크">네트워크</a>|BFS/DFS|21.11.18.| 
 ||3|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/정수삼각형.cpp">정수삼각형</a>|DP|21.11.18.| 
 ||4|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/단어변환">단어변환</a>|DFS|21.12.08.|
-||5|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/가장먼노드">가장먼노드</a>|그래프|22.02.28.| 
+||5|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/가장먼노드">가장 먼 노드</a>|그래프|22.02.28.| 
   
 </br>
   

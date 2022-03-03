@@ -17,10 +17,10 @@
 
 ||문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/bfs/16173/">16173</a>|실버5|점프왕 쩰리|21.09.07.|
-|2|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/bfs/16956/">16956</a>|실버4|늑대와 양|21.09.08.|
-|3|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/bfs/2589/">2589</a>|골드5|보물섬|21.09.08.|
-|4|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/bfs/10709/">10709</a>|실버5|기상캐스터|21.09.09.|
+|1|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/bfs/16173/">16173</a>|실버5|점프왕 쩰리|21.09.07.|
+|2|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/bfs/16956/">16956</a>|실버4|늑대와 양|21.09.08.|
+|3|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/bfs/2589/">2589</a>|골드5|보물섬|21.09.08.|
+|4|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/bfs/10709/">10709</a>|실버5|기상캐스터|21.09.09.|
 
 </br>
 
@@ -31,7 +31,7 @@
 
 ||문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/dfs/1388/">1388</a>|실버4|바닥 장식|21.09.08.|
+|1|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/dfs/1388/">1388</a>|실버4|바닥 장식|21.09.08.|
 
 </br>
 
@@ -43,10 +43,10 @@
 
 ||문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/dp/1010/">1010</a>|실버5|다리 놓기|21.09.09.|
-|2|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/dp/9655/">9655</a>|실버5|돌 게임|21.09.09.|
-|3|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/dp/9656/">9656</a>|실버5|돌 게임2|21.09.09.|
-|4|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/dp/10709/">10709</a>|실버5|기상캐스터|21.09.09.|
+|1|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/dp/1010/">1010</a>|실버5|다리 놓기|21.09.09.|
+|2|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/dp/9655/">9655</a>|실버5|돌 게임|21.09.09.|
+|3|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/dp/9656/">9656</a>|실버5|돌 게임2|21.09.09.|
+|4|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/dp/10709/">10709</a>|실버5|기상캐스터|21.09.09.|
 
 </br>
 
@@ -56,8 +56,8 @@
 
 ||문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/greedy/1343/">1010</a>|실버5|폴리오미노|21.09.10.|
-|2|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/greedy/1789/">9655</a>|실버5|뒤집기|21.09.10.|
+|1|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/greedy/1343/">1010</a>|실버5|폴리오미노|21.09.10.|
+|2|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/greedy/1789/">9655</a>|실버5|뒤집기|21.09.10.|
 
 </br>
 
@@ -68,8 +68,8 @@
 
 ||문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/brute/1018/">1018</a>|실버5|체스판 다시 칠하기|21.09.13.|
-|2|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/brute/1436/">1436</a>|실버5|영화감독 숌|21.09.13.|
+|1|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/brute/1018/">1018</a>|실버5|체스판 다시 칠하기|21.09.13.|
+|2|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/brute/1436/">1436</a>|실버5|영화감독 숌|21.09.13.|
 
 </br>
 
@@ -85,8 +85,8 @@
 
 ||문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/brute/1920/">1920</a>|실버4|수 찾기|21.09.16.|
-|2|<a href="https://github.com/ryusuz/algorithm_backjoon/blob/master/brute/2110/">2110</a>|실버1|공유기 설치|21.09.16.|
+|1|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/brute/1920/">1920</a>|실버4|수 찾기|21.09.16.|
+|2|<a href="https://github.com/ryusuz/algorithm/backjoon/blob/master/brute/2110/">2110</a>|실버1|공유기 설치|21.09.16.|
 </br>
 
 ## ✏ Backtracking (백트래킹)

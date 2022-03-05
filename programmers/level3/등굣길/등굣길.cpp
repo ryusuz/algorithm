@@ -17,16 +17,16 @@ int solution(int m, int n, vector<vector<int>> puddles) {
     
     for(int i = 1; i <= n; i++) {
         for(int j = 1; j <= m; j++) {
-            int a = 0;
-            int b = 0;
+            int tmp1 = 0;
+            int tmp2 = 0;
             
             if(dp[i][j] == -1) continue;
             
-            if(dp[i-1][j] != -1) a = dp[i-1][j];
+            if(dp[i-1][j] != -1) tmp1 = dp[i-1][j];
             
-            if(dp[i][j-1] != -1) b = dp[i][j-1];
+            if(dp[i][j-1] != -1) tmp2 = dp[i][j-1];
             
-            dp[i][j] += (a+b) % 1000000007;
+            dp[i][j] += (tmp1 + tmp2) % 1000000007;
         }
     }
     

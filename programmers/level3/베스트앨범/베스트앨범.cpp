@@ -7,13 +7,8 @@ using namespace std;
 typedef pair<int, int> pr;
 
 bool cmp(pr a, pr b) {
-    if (a.first > b.first) return a > b;
-    else if (a.first == b.first) return a.second < b.second;
-}
-
-bool cmp2(pair<int, string> a, pair<int, string> b) {
-    if (a.first > b.first) return a > b;
-    else if (a.first == b.first) return a < b;
+    if (a.first == b.first) return a.second < b.second;
+    return a.first > b.first;
 }
 
 vector<int> solution(vector<string> genres, vector<int> plays) {
@@ -35,7 +30,7 @@ vector<int> solution(vector<string> genres, vector<int> plays) {
         
     }
     
-    sort(sums.begin(), sums.end(), cmp2);
+    sort(sums.begin(), sums.end(), greater<>());
         
     for(auto& s : sums) {
         string genre = s.second;

@@ -56,8 +56,8 @@
 
 ||No.|문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/greedy/1343/">1010</a>|실버5|폴리오미노|21.09.10.|
-|2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/greedy/1789/">9655</a>|실버5|뒤집기|21.09.10.|
+||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/greedy/1343/">1010</a>|실버5|폴리오미노|21.09.10.|
+||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/greedy/1789/">9655</a>|실버5|뒤집기|21.09.10.|
 
 </br>
 

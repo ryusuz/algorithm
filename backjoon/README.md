@@ -107,6 +107,8 @@
 ||No.|문제번호|티어|제목|비고|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//shortest-path/11403/">11403</a>|실버1|경로 찾기|플로이드-와샬|22.03.10.|
+||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//shortest-path/1389/">1389</a>|실버1|케빈 베이컨의 6단계 법칙|플로이드-와샬|22.03.10.|
+
 </br>
 </br>
 

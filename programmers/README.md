@@ -158,6 +158,7 @@
 ||13|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/야근지수">야근지수</a>|우선순위큐(힙)|22.03.08.|  
 ||14|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/여행경로">여행경로</a>|DFS|22.03.08.|  
 |✅|15|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/순위">순위</a>|플로이드와샬|22.03.09.|  
+||16|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/멀리뛰기">멀리 뛰기</a>|dp|22.03.10.|  
   
 </br>
   

@@ -2,7 +2,7 @@
 
 https://programmers.co.kr/learn/courses/30/lessons/60059
 
-</br></br>
+</br>
 
 ## ✏️ 풀이 방법
 
@@ -12,6 +12,13 @@ https://programmers.co.kr/learn/courses/30/lessons/60059
 </br>
 
 ![IMG_C15813F0E27F-1](https://user-images.githubusercontent.com/59083189/157873809-96ec01c3-a8be-4a41-9fad-f86bd432d5a1.jpeg)
+
+</br>
+
+## 💡 배열 회전
+- a[ i ][ j ]   ==>   b[ j ][행의 크기 - i - 1]
+
+
 
 
 <br/>

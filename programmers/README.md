@@ -161,6 +161,9 @@
 ||16|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/멀리뛰기">멀리 뛰기</a>|DP|22.03.10.|  
 ||17|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/자물쇠와열쇠">자물쇠와 열쇠</a>||22.03.11.|  
 |✅|18|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/풍선터뜨리기">풍선 터뜨리기</a>||22.03.12.|  
+|✅|19|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/블록이동하기">블록 이동하기</a>|BFS, 구현|22.03.13.|
+||20|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/숫자게임">숫자 게임</a>||22.03.13.|  
+
   
 </br>
   

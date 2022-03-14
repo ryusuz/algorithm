@@ -163,6 +163,8 @@
 |✅|18|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/풍선터뜨리기">풍선 터뜨리기</a>||22.03.12.|  
 |✅|19|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/블록이동하기">블록 이동하기</a>|BFS, 구현|22.03.13.|
 ||20|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/숫자게임">숫자 게임</a>||22.03.13.|  
+||21|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/이중우선순위큐">이중 우선순위 큐</a>|우선순위 큐|22.03.14.|  
+|✅|22|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/징검다리건너기">징검다리 건너기</a>|이분탐색|22.03.14.|  
 
   
 </br>

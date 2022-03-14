@@ -85,8 +85,8 @@
 
 ||No.|문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//brute/1920/">1920</a>|실버4|수 찾기|21.09.16.|
-||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/brute/2110/">2110</a>|실버1|공유기 설치|21.09.16.|
+||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//bs/1920/">1920</a>|실버4|수 찾기|21.09.16.|
+||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bs/2110/">2110</a>|실버1|공유기 설치|21.09.16.|
 </br>
 
 ## ✏ Backtracking (백트래킹)

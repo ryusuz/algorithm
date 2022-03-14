@@ -1,5 +1,6 @@
 # [Level3] 숫자 게임
 
+https://programmers.co.kr/learn/courses/30/lessons/64062
 
 </br>
 

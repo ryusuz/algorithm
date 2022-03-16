@@ -1,38 +1,27 @@
+// 22.03.16. 스티커모으기 (DP)
+
 #include <iostream>
 #include <vector>
-#include <algorithm>
-#include <iostream>
 using namespace std;
 
 int solution(vector<int> sticker)
 {
-    int answer = 0;
+    int answer = sticker[0];
+    int dp1[100002] = { 0, };
+    int dp2[100002] = { 0, };
     
-    int N = sticker.size();
-    vector<int> sums(3, 0);
+    dp1[0] = dp1[1] = sticker[0];
+    dp2[0] = 0, dp2[1] = sticker[1];
     
-    if (N & 1) {
-        for(int i = 0; i < N - 2; i += 2) sums[0] += sticker[i];
-        
-        for(int i = 1; i < N - 1; i += 2) sums[1] += sticker[i];
-           
-        for(int i = 2; i < N; i += 2) sums[2] += sticker[i];
-        
-    } else {        
-        for(int i = 0; i < N; i++) {
-            if (i & 1) sums[0] += sticker[i];
-            else sums[1] += sticker[i];
+    for(size_t i = 2; i < sticker.size(); i++){
+        if(i != sticker.size() - 1) {
+            dp1[i] = max(dp1[i - 2] + sticker[i], dp1[i - 1]);
+            answer = dp1[i];
         }
+        dp2[i] = max(dp2[i - 2] + sticker[i], dp2[i - 1]);
     }
     
-    answer = *max_element(sums.begin(), sums.end());
+    answer = max(answer, dp2[sticker.size() - 1]);
     
     return answer;
 }
-
-/*
-완탐 불가능.
-최대한 많이 떼어내는게 좋을까? ==> 아닌 듯
-
-
-*/

@@ -1,3 +1,60 @@
+// 22.03.16. 셔틀버스
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+
+using namespace std;
+
+string solution(int n, int t, int m, vector<string> timetable) {
+    string answer = "";
+    int result = 0;
+
+    sort(timetable.begin(), timetable.end());
+    vector<int> timeTable;
+    for (auto& time : timetable)
+        timeTable.push_back(stoi(time.substr(0, 2)) * 60 + stoi(time.substr(3, 2)));
+
+    int index = 0;
+    int busTime = 540; // 09:00
+    
+    for (int count = 1; count <= n; ++count) {
+        int numOfGetOn = 0;
+        
+        while (numOfGetOn < m && index < timeTable.size()) {
+            if (timeTable[index] <= busTime) {
+                numOfGetOn++;
+                index++;
+            }
+            else break;
+        }
+        
+        if (count == n) {
+            if (numOfGetOn < m)
+                result = busTime;
+            else
+                result = timeTable[index - 1] - 1;
+        }
+        busTime += t;
+    }
+  
+    int hours = result / 60;
+    if (hours <= 9)
+        answer = "0" + to_string(hours) + ":";
+    else
+        answer = to_string(hours) + ":";
+
+    int minutes = result % 60;
+    if (minutes <= 9)
+        answer += "0" + to_string(minutes);
+    else
+        answer += to_string(minutes);
+
+    return answer;
+}
+
+
+/////2. 나의 틀린 풀ㅇ ㅣ시발
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -30,51 +87,35 @@ string solution(int n, int t, int m, vector<string> timetable) {
     vector<int> bus_time;
     int start = getTime("09:00");
     bus_time.push_back(start);
+    
     for(int i = 1; i < n; i ++) bus_time.push_back(start + t * i);
+    
+    int last = bus_time[bus_time.size()-1];
     
     int idx = 0;
     int person = 0, bus = 0;
+    int tmp = 0;
     
     for(int i = 0; i < timetable.size(); i++) {
         int curr = getTime(timetable[i]);
         
-        cout << curr << " " << bus_time[idx] << endl;
-        if (curr <= bus_time[idx] && person < m) {
-            person++;
-        }
+        if (curr <= bus_time[idx] && person < m) person++;
         
         if (person == m || curr > bus_time[idx]) {
             bus++;
             idx++;
             i--;
-            
-            cout << "leave bus " << bus << " :: person == " << person << endl;
+            tmp = person;
             person = 0;
-            
         }
         
         if (bus == n) {
-            cout << "no bus" << endl;
+            if (curr > last || tmp < m)
+                return getStringTime(last);
             
-            if (curr > bus_time[i]) return getStringTime(bus_time[idx-1]);
-
             return getStringTime(curr - 1);
-        }
-        
-        
+        }   
     }
     
-    if (bus == 0) {
-            return "09:00";
-    }
-    
-    return answer;
+    return getStringTime(last);
 }
-
-/*
-1. 버스는 무조건 9시에 온다.
-2. 버스 시간표 만들기
-3. 제일 늦은 도착시간이니까 마지막 버스를 타야함.
-4. 애들이 9시보다 먼저 오면 사람수랑 버스수 생각해야함
-5. 애들이 9시보다 늦게 와도...
-*/

@@ -49,3 +49,7 @@ https://programmers.co.kr/learn/courses/30/lessons/64064
 다섯번째 자리 => (n-5)! => 0
 => 29-29 = 0번째 ==> 0/0 => 안됨!!
 ```
+
+![image](https://user-images.githubusercontent.com/59083189/158736574-22cc989e-08b7-4e5a-873c-9bab1b3b29d9.png)
+
+

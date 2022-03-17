@@ -152,7 +152,7 @@
 |✅|7|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/단속카메라">단속 카메라</a>||22.03.03.|
 ||8|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/등굣길">등굣길</a>|DP|22.03.04.|   
 ||9|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/최고의집합">최고의 집합</a>||22.03.05.|
-|✅|10|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/퍼즐조각맞추기">퍼즐 조각 맞추기</a>||22.03.06.|
+|✅|10|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/퍼즐조각맞추기">퍼즐 조각 맞추기</a>|구현|22.03.06.|
 ||11|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/베스트앨범">베스트 앨범</a>|해시|22.03.06.|
 |✅|12|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/디스크컨트롤러">디스크 컨트롤러</a>|우선순위큐(힙)|22.03.07.|  
 ||13|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/야근지수">야근지수</a>|우선순위큐(힙)|22.03.08.|  
@@ -165,6 +165,11 @@
 ||20|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/숫자게임">숫자 게임</a>||22.03.13.|  
 ||21|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/이중우선순위큐">이중 우선순위 큐</a>|우선순위 큐|22.03.14.|  
 |✅|22|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/징검다리건너기">징검다리 건너기</a>|이분탐색|22.03.14.|  
+|✅|23|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/가장긴팰린드롬">가장 긴 팰린드롬</a>|DP|22.03.15.|  
+|✅|24|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/보석쇼핑">보석 쇼핑</a>|투포인터|22.03.15.|  
+|✅|25|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/스티커모으기">스티커 모으기(2)</a>|DP|22.03.16.|  
+|✅|26|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/셔틀버스">셔틀버스</a>|구현|22.03.16.|  
+||27|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/줄서는방법">줄 서는 방법</a>|DP + 팩토리얼|22.03.17.|  
 
   
 </br>

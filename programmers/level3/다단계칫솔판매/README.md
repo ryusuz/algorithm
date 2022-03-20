@@ -14,6 +14,8 @@ struct Person {
 };
 ```
 
+</br>
+
 2. enroll을 돌면서 맵에 Person을 넣어 초기화 해주었다.
 
 ```c++
@@ -24,6 +26,9 @@ map<string, Person> m;
         m[enroll[i]] = p;
     }
 };
+```
+
+</br>
 
 3. seller를 돌면서 m[me]의 부모를 타고 올라가면서 돈을 누적 계산해주었다.
 
@@ -49,6 +54,8 @@ for(int i = 0; i < seller.size(); i++) {
     }
 ```
 
+</br>
+
 4. 계산한 값들을 answer에 넣어주면 끝!
 ```c++
 for(int i = 0; i < enroll.size(); i++) {
@@ -57,6 +64,8 @@ for(int i = 0; i < enroll.size(); i++) {
     
 return answer;
 ```
+
+</br>
 
 ## 💡 시간 초과 해결 방법
 테스트 케이스 13개 중에 11~13번이 시간 초과가 났다.

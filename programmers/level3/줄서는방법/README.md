@@ -10,44 +10,69 @@ https://programmers.co.kr/learn/courses/30/lessons/64064
 3. 첫번째 자리가 start부터 end까지 중 몇 번째에 있는지 구한다. (order)
 4. start와 end를 갱신.
 5. nums[order]값을 answer에 넣어주고 nums[order]를 삭제한다.
-6. 2~4을 n번 반복
+6. 3~5을 n번 반복
 <br/>
 
+```c++
+for(int i = 1; i <=n; i++) {
+    order = (k - start) / fac[n-i];
+    start = start + fac[n-i] * order;
+    end = start + fac[n-i] - 1;
+
+    answer.push_back(num[order]);
+    num.erase(num.begin() + order);
+}
 ```
-1 2 3 4 5
 
-29번째.
+```
+num = [ 1 2 3 4 5 ]
+k = 30
 
-첫번째 자리 ==> (n-1)! == 24개
-=> (k-start) 29 - 0 = 29 =>29/24 => 1
-=> (start + 24 * 1)0 + (24*1) = 24
-==> start = 24, end = 47
-==> 1이니까 첫시작은 2
-==> 0이면 1, 1이면 2, .... 4면 5
+start = 0, end = 0
+나는 0번째부터 시작하기 때문에 k에서 1을 빼주었다. == 29번째 값 찾기!
 
-두번째 자리 ==> (n-2)! == 6개
-=> 29 - 24 = 5번째 ==> 5/6 = 0
-=> 24 + (6*0) ~ + 6 - 1 => 24 ~ 29 
-=> start = 24, end = 29
-==> 0이니까 첫시작은 1            
-==> 0이면 얘를 제외한 제일 작은수, 1이면 첫쩨+1, 2면 첫째+2
+1. 첫번째 자리 ==> (n-1)! == 24개
+    order = (29 - 0) / 24 = 1
+    start = 0 + (24 * 1) = 24
+    end = 24 + 24 - 1 = 47
+    answer.push_back(num[1]);
+    ==> answer = [2]
+    ==> num = [ 1 3 4 5 ]
+    
+2. 두번째 자리 ==> (n-2)! == 6개
+    order = (29 - 24) / 6 = 0
+    start = 24 + (6 * 0) = 24
+    end = 24 + 6 - 1 = 29
+    answer.push_back(num[0]);
+    ==> answer = [2 1]
+    ==> num = [ 3 4 5 ]
+    
+3. 세번째 자리 ==> (n-3)! == 2개
+    order = (29 - 24) / 2 = 2
+    start = 24 + (2 * 2) = 28
+    end = 28 + 2 - 1 = 29
+    answer.push_back(num[2]);
+    ==> answer = [2 1 5]
+    ==> num = [ 3 4 ]
+    
+4. 네번째 자리 ==> (n-4)! == 1개
+    order = (29 - 28) / 1 = 1
+    start = 28 + (1 * 1) = 29
+    end = 29 + 1 - 1 = 29
+    answer.push_back(num[1]);
+    ==> answer = [2 1 5 4]
+    ==> num = [ 3 ]
+    
+5. 다섯번째 자리 ==> (n-5)! == 1개
+    order = (29 - 29) / 1 = 0
+    start = 29 + (29 * 0) = 29
+    end = 29 + 0 - 1 = 28
+    answer.push_back(num[0]);
+    ==> answer = [2 1 5 4 3]
+    ==> num = [ ]
+    
+answer = [2 1 5 4 3]
 
-세번째 자리 ==> (n-3)! => 2개
-=> 29-24 = 5번째 ==> 5/2 = 2
-=> 24 + (2*2) => 28
-=> start = 28, end = 29
-==> 2니까 첫 시작은 5
-==> 0이면 앞에 두개를 제외한 제일 작은 수, 1이면 
-
-
-네번쩨 자리 ==> (n-4)! => 1개
-=> 29-28 = 1번째 ==> 1/1 = 1
-=> 28 + 1*1 => 29
-=> start = 29, end = 29.
-==> 1이니까 첫 시작은 4
-
-다섯번째 자리 => (n-5)! => 0
-=> 29-29 = 0번째 ==> 0/0 => 안됨!!
 ```
 
 ![image](https://user-images.githubusercontent.com/59083189/158736574-22cc989e-08b7-4e5a-873c-9bab1b3b29d9.png)

@@ -170,6 +170,11 @@
 |✅|25|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/스티커모으기">스티커 모으기(2)</a>|DP|22.03.16.|  
 |✅|26|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/셔틀버스">셔틀버스</a>|구현|22.03.16.|  
 ||27|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/줄서는방법">줄 서는 방법</a>|DP + 팩토리얼|22.03.17.|  
+|✅|28|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/불량사용자">불량사용자</a>||22.03.17.|  
+|✅|29|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/거스름돈">거스름돈</a>||22.03.18.|  
+|✅|30|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/길찾기게임">길 찾기 게임</a>|이진 탐색 트리 구현|22.03.18.|  
+||31|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/다단계칫솔판매">다단계 칫솔판매</a>|해쉬|22.03.20.|  
+|✅|32|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/외벽점검">외벽 점검</a>|DP + 팩토리얼|22.03.20.|  
 
   
 </br>

@@ -9,3 +9,6 @@ https://programmers.co.kr/learn/courses/30/lessons/12907
 
 DP를 이용해서 풀어야하는 문제.
 
+
+![IMG_8D847A662D23-1](https://user-images.githubusercontent.com/59083189/159209218-9f223253-6f09-4f32-bc8e-704fe015d566.jpeg)
+

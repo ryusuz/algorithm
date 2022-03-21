@@ -5,6 +5,9 @@ https://programmers.co.kr/learn/courses/30/lessons/12946
 </br>
 
 ## ✏️ 풀이 방법
+재귀를 이용한 풀이.
+
+
 
 
 

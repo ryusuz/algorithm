@@ -1,4 +1,71 @@
 // 22.03.18. 길 찾기 게임 (이진탐색트리 구현)
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <iostream>
+using namespace std;
+
+struct Node {
+    int x;
+    int y;
+    int num;
+    Node *left;     // 왼쪽 자식
+    Node *right;    // 오른쪽 자식
+};
+
+bool cmp(Node a, Node b) {
+    if (a.y == b.y) return a.x < b.x;
+    return a.y > b.y;
+}
+
+void addNode(Node *parent, Node *child) {
+    if (child-> x < parent->x) {
+        if (parent->left == NULL) parent->left = child;
+        else addNode(parent->left, child);
+    } else {
+        if (parent->right == NULL) parent->right = child;
+        else addNode(parent->right, child);
+    }
+}
+
+void preorder(vector<int> &answer, Node * node) {
+    if(node == NULL) return;
+    
+    answer.push_back(node->num);
+    preorder(answer, node->left);
+    preorder(answer, node->right);
+}
+
+void postorder(vector<int> &answer, Node * node) {
+    if(node == NULL) return;
+    
+    postorder(answer, node->left);
+    postorder(answer, node->right);
+    answer.push_back(node->num);
+}
+
+vector<vector<int>> solution(vector<vector<int>> nodeinfo) {
+    vector<vector<int>> answer = {{}, {}};
+    vector<Node> nodes;
+    
+    for(int i = 0; i < nodeinfo.size(); i++) {
+        Node tmp = {nodeinfo[i][0], nodeinfo[i][1], i+1};
+        nodes.emplace_back(tmp);
+    }
+    
+    sort(nodes.begin(), nodes.end(), cmp);
+    
+    Node *root = &nodes[0];
+    
+    for(int i = 1; i < nodes.size(); i++) {
+        addNode(root, &nodes[i]);
+    }
+    
+    preorder(answer[0], root);
+    postorder(answer[1], root);
+    
+    return answer;
+}
 
 
 // 2. 나의 틀린 풀이

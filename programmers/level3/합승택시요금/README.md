@@ -5,7 +5,6 @@ https://programmers.co.kr/learn/courses/30/lessons/72413
 </br>
 
 ## ✏️ 풀이 방법
-
 플로이드 와샬 사용.
 
 s 출발, a 도착, b 도착이라면

@@ -183,7 +183,7 @@
 ||38|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/기둥과보설치">기둥과 보 설치</a>||22.03.23.|  
 ||39|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/경주로건설">경주로 건설 </a>||22.03.24.|  
 ||40|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/아이템줍기">아이템 줍기</a>||22.03.24.|
-||41|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/금과은운반하기">금과 은 운반하기</a>||22.03.27.|  
+||41|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/금과은운반하기">금과 은 운반하기</a>|이분탐색 + 파라매트릭 서치|22.03.27.|  
 ||42|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/광고삽입">광고 삽입</a>||22.03.27.|  
 ||43|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/기지국설치">기지국 설치</a>||22.03.28.|  
 ||44|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/카드짝맞추기">카드 짝 맞추기</a>||22.03.28.|  

@@ -180,7 +180,7 @@
 ||35|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/2xn타일링">2 X N 타일링</a>|DP|22.03.22.|  
 ||36|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/매칭점수">매칭점수</a>|구현|22.03.22.|  
 ||37|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/N-Queen">N-Queen</a>||22.03.23.|  
-||38|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/가둥과보설치">기둥과 보 설치</a>||22.03.23.|  
+||38|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/기둥과보설치">기둥과 보 설치</a>||22.03.23.|  
 ||39|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/경주로건설">경주로 건설 </a>||22.03.24.|  
 ||40|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/아이템줍기">아이템 줍기</a>||22.03.24.|
 ||41|<a href="https://github.com/ryusuz/algorithm/blob/master/programmers/level3/금과은운반하기">금과 은 운반하기</a>||22.03.27.|  

@@ -11,5 +11,3 @@ https://programmers.co.kr/learn/courses/30/lessons/42893
 테케 12 해결 : 데이터타입 double로 바꿈
 ```
 
-```
-

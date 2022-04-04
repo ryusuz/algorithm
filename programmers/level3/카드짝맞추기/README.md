@@ -5,7 +5,7 @@ https://programmers.co.kr/learn/courses/30/lessons/72415?language=cpp
 </br>
 
 ## ✏️ 풀이 방법
-BFS 이용.
+BFS 이용. 삼성 코테 같은 문제..
 
 1. 입력값의 크기가 크지 않으므로 브루트포스로 풀어도 상관 없음!
 2. 지워야 하는 카드들의 순서로 조합을 만든다.

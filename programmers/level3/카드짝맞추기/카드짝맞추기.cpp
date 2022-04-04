@@ -1,4 +1,4 @@
-// 22.03.28. 카드 짝 맞추기 (BFS)
+// 22.03.28. 카드 짝 맞추기 (BFS + 구현)
 #include <string>
 #include <vector>
 #include <algorithm>

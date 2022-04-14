@@ -1,4 +1,4 @@
-# [S2][1012] 피보나치 함수
+# [S2][1012] 유기농 베추
 
 https://www.acmicpc.net/problem/1012
 

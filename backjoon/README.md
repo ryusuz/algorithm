@@ -20,6 +20,7 @@
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bfs/10709">16173</a>|실버5|점프왕 쩰리|21.09.07.|
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bfs/16956/">16956</a>|실버4|늑대와 양|21.09.08.|
 ||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bfs/2589/">2589</a>|골드5|보물섬|21.09.08.|
+||4|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bfs/1012/">1012</a>|실버2|유기농 배추|22.04.14.|
 
 </br>
 

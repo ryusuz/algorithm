@@ -97,7 +97,7 @@
 ## ✏ Divide and Conquer (분할 정복)
 ||No.|문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dc/1047/">1047</a>|실버1|Z|22.04.14.|
+||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dc/1074">1047</a>|실버1|Z|22.04.14.|
 </br>
 
 ## ✏ Shortest Path (최단 경로 - 다익스트라, 벨만-포드, 플로이드-와샬)

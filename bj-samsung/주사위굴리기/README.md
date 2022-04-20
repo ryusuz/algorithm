@@ -8,6 +8,9 @@ https://www.acmicpc.net/problem/14499
 1. dice 배열을 만들어서 인덱스를 고정함.
 2. 실제로 주사위를 굴리는게 아니라 인덱스 안의 값을 바꿔줌
 
+![image](https://user-images.githubusercontent.com/59083189/164231311-6640672c-9255-449a-b67b-96dbd5b7bb41.png)
+
+
 
 1. 방향대로 이동한다.
 2. 주사위 바꿔준다.

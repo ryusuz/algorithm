@@ -5,6 +5,7 @@ https://www.acmicpc.net/problem/14890
 </br>
 
 ## ✏️ 풀이 방법
+
 구현 문제.
 
 ```
@@ -17,9 +18,11 @@ https://www.acmicpc.net/problem/14890
 ```
 
 ## ✏️ 시간복잡도 줄이기
-```
+
 애초에 가능하지 않은 애들은 가지치기!!!
-```
+
+<img width="1177" alt="image" src="https://user-images.githubusercontent.com/59083189/164168003-a44a87d0-85d3-4e8d-a01e-baeffed49db4.png">
+
 
 
 <br/>

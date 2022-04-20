@@ -8,4 +8,5 @@
 ||4|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/퇴사">14501</a>|퇴사|실버 3|DFS|22.04.13.|
 ||5|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/테트로미노">14500</a>|테트로미노|골드 5|DFS|22.04.13.|
 ||6|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/연구소">14502</a>|연구소|골드 5|DFS + BFS|22.04.18.|
+||7|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/로봇청소기">14503</a>|로봇청소기|골드 5|구현|22.04.19.|
 

@@ -11,4 +11,5 @@
 ||7|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/로봇청소기">14503</a>|로봇청소기|골드 5|구현|22.04.19.|
 ||8|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/경사로">14890</a>|경사로|골드 3|구현|22.04.20.|
 ||9|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/주사위굴리기">14499</a>|주사위 굴리기|골드 4|구현|22.04.20.|
+||10|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/톱니바퀴">14891</a>|톱니바퀴|골드 5|구현|22.04.21.|
 

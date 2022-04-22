@@ -13,6 +13,10 @@ https://www.acmicpc.net/problem/15685
 
 </br>
 
+![image](https://user-images.githubusercontent.com/59083189/164593222-c20ab104-eab0-4d2e-aa64-628e24131d01.png)
+
+<br/>
+
 ## 회전 방법
 ```c++
 Point rotate(Point p) {

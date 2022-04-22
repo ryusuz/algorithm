@@ -13,7 +13,7 @@ https://www.acmicpc.net/problem/15685
 
 </br>
 
-![image](https://user-images.githubusercontent.com/59083189/164593222-c20ab104-eab0-4d2e-aa64-628e24131d01.png)
+![image](https://user-images.githubusercontent.com/59083189/164593309-9753dd64-f167-4e54-adfd-416382efe4ee.png)
 
 <br/>
 

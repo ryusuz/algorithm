@@ -12,4 +12,7 @@
 |✅|8|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/경사로">14890</a>|경사로|골드 3|구현|22.04.20.|
 |✅|9|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/주사위굴리기">14499</a>|주사위 굴리기|골드 4|구현|22.04.20.|
 ||10|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/톱니바퀴">14891</a>|톱니바퀴|골드 5|구현|22.04.21.|
+|❌|11|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/감시">15683</a>|감시|골드 4|DFS||
+|❌|12|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/사다리조작">15684</a>|사다리 조작|골드 4|||
+||13|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/드래곤커브">15685</a>|드래곤커브|골드 4|구현 + DFS|22.04.21.|
 

@@ -12,4 +12,7 @@ https://www.acmicpc.net/problem/14891
 톱니바퀴를 실제로 돌리는게 아니라 인덱스 안의 값을 변경해서 돌리는 방식.
 
 K만큼 돌면서 해당 바퀴를 돌리면 다른 바퀴도 도는지 재귀로 확인
+
+![image](https://user-images.githubusercontent.com/59083189/164358759-51d85408-a1c0-4f9c-a22f-899f088cd255.png)
+
 <br/>

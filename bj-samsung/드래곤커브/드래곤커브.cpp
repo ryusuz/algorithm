@@ -1,4 +1,4 @@
-// 22.04. 33. 드래곤커브
+// 22.04.22. 드래곤커브
 #include <iostream>
 #include <vector>
 using namespace std;

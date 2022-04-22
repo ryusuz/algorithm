@@ -14,5 +14,5 @@
 ||10|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/톱니바퀴">14891</a>|톱니바퀴|골드 5|구현|22.04.21.|
 |❌|11|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/감시">15683</a>|감시|골드 4|DFS||
 |❌|12|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/사다리조작">15684</a>|사다리 조작|골드 4|||
-||13|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/드래곤커브">15685</a>|드래곤커브|골드 4|구현 + DFS|22.04.21.|
+||13|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/드래곤커브">15685</a>|드래곤 커브|골드 4|구현 + DFS|22.04.21.|
 

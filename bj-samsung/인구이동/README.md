@@ -10,4 +10,9 @@ https://www.acmicpc.net/problem/16234
     2. 여러 개면 벡터 돌면서 해당 국가들 인구 이동
 2. bfs 리턴값의 합이 0이면 국경 열기 불가능이므로 무한반복문 멈춤
 3. 0이 아니면 위의 과정 반복
+
+</br>
+
+![image](https://user-images.githubusercontent.com/59083189/165894869-63eb8e00-fbbf-4d8a-aa4c-578277dd9b1d.png)
+
 <br/>

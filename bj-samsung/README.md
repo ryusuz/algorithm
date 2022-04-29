@@ -16,4 +16,5 @@
 |❌|12|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/사다리조작">15684</a>|사다리 조작|골드 4|||
 ||13|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/드래곤커브">15685</a>|드래곤 커브|골드 4|구현 + DFS|22.04.21.|
 ||14|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/치킨배달">15686</a>|치킨 배달|골드 5|DFS or 조합|22.04.29.|
+||15|<a href="https://github.com/ryusuz/algorithm/tree/master/bj-samsung/인구이동">16234</a>|인구 이동|골드 5|BFS|22.04.29.|
 

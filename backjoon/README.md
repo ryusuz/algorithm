@@ -30,7 +30,7 @@
 ||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/dfs/1388/">1388</a>|실버4|바닥 장식|DFS|21.09.08.|
 ||4|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/bfs/2589/">2589</a>|골드5|보물섬|BFS|21.09.08.|
 ||5|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/bfs/1012/">1012</a>|실버2|유기농 배추|BFS|22.04.14.|
-||6|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/1012/">1260</a>|실버2|DFS와 BFS|DFS + BFS|22.05.15.|
+||6|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/1260/">1260</a>|실버2|DFS와 BFS|DFS + BFS|22.05.15.|
 
 </br>
 

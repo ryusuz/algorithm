@@ -27,6 +27,7 @@
 ## ✏ Depth-First Search (DFS; 깊이우선탐색)
 > 1. 자료구조 **Stack** 사용!! ⭐⭐ (재귀로 할 수 있으나 스택이 더 빠르고 안전)
 > 2. 동작방식은 bfs와 거의 같다
+> 3. 백트래킹으로 활용 가능
 </br>
 
 ||No.|문제번호|티어|제목|날짜|
@@ -71,12 +72,10 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/brute/1018/">1018</a>|실버5|체스판 다시 칠하기|21.09.13.|
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/brute/1436/">1436</a>|실버5|영화감독 숌|21.09.13.|
+||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/brute/1107/">1107</a>|골드5|리모컨|22.05.15.|
 
 </br>
 
-## ✏ Recursion (재귀)
-
-</br>
 
 ## ✏ Binary Search (이진탐색)
 > 1. 탐색 범위를 절반씩 좁혀가며 탐색하는 알고리즘
@@ -90,9 +89,6 @@
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bs/2110/">2110</a>|실버1|공유기 설치|21.09.16.|
 </br>
 
-## ✏ Backtracking (백트래킹)
-
-</br>
 
 ## ✏ Divide and Conquer (분할 정복)
 ||No.|문제번호|티어|제목|날짜|

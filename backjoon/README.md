@@ -88,9 +88,6 @@
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bs/2110/">2110</a>|실버1|공유기 설치|21.09.16.|
 </br>
 
-## ✏ Backtracking (백트래킹)
-
-</br>
 
 ## ✏ Divide and Conquer (분할 정복)
 ||No.|문제번호|티어|제목|날짜|

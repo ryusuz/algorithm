@@ -71,6 +71,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/brute/1018/">1018</a>|실버5|체스판 다시 칠하기|21.09.13.|
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/brute/1436/">1436</a>|실버5|영화감독 숌|21.09.13.|
+||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/brute/1107/">1107</a>|골드5|리모컨|22.05.15.|
 
 </br>
 

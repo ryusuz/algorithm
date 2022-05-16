@@ -48,6 +48,7 @@
 ||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dp/9656/">9656</a>|실버5|돌 게임2|21.09.09.|
 ||4|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dp/10709/">10709</a>|실버5|기상캐스터|21.09.09.|
 ||5|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dp/1003/">1003</a>|실버3|피보나치 함수|22.04.14.|
+||6|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dp/1463/">1463</a>|실버3|1로 만들기|22.05.15.|
 
 </br>
 
@@ -109,6 +110,20 @@
 ||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//shortest-path/11404/">11404</a>|골드4|플로이드|플로이드-와샬|22.03.10.|
 
 </br>
+
+## ✏ Impliment (단순 구현)
+||No.|문제번호|티어|제목|비고|날짜|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1541/">1541</a>|실버2|잃어버린 괄호||22.05.16.|
+||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1620/">1620</a>|실버4|나는야 포켓몬 마스터 이다솜|해쉬|22.05.16.|
+
+</br>
+
+## ✏ Math
+||No.|문제번호|티어|제목|날짜|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/math/1676">1676</a>|실버4|팩토리얼 0의 개수|22.05.16.|
+
 </br>
 
 ## ✏ Bit masking (비트마스킹)

@@ -11,30 +11,29 @@
 
 <br/>
 
-## ✏ Breadth-First Search (BFS; 너비우선탐색)
+## ✏ Graph
+1. Breadth-First Search (BFS; 너비우선탐색)
 > 1. 자료구조 **Queue** 사용!! ⭐⭐
-</br>
+<br/>
 
-||No.|문제번호|티어|제목|날짜|
-|:--:|:---:|:---:|:---:|:---:|:---:|
-||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bfs/10709">16173</a>|실버5|점프왕 쩰리|21.09.07.|
-||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bfs/16956/">16956</a>|실버4|늑대와 양|21.09.08.|
-||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bfs/2589/">2589</a>|골드5|보물섬|21.09.08.|
-||4|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bfs/1012/">1012</a>|실버2|유기농 배추|22.04.14.|
-
-</br>
-
-## ✏ Depth-First Search (DFS; 깊이우선탐색)
+2. Depth-First Search (DFS; 깊이우선탐색)
 > 1. 자료구조 **Stack** 사용!! ⭐⭐ (재귀로 할 수 있으나 스택이 더 빠르고 안전)
 > 2. 동작방식은 bfs와 거의 같다
 > 3. 백트래킹으로 활용 가능
 </br>
+</br>
 
-||No.|문제번호|티어|제목|날짜|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dfs/1388/">1388</a>|실버4|바닥 장식|21.09.08.|
+||No.|문제번호|티어|제목|비고|날짜|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/bfs/10709">16173</a>|실버5|점프왕 쩰리|BFS|21.09.07.|
+||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/bfs/16956/">16956</a>|실버4|늑대와 양|BFS|21.09.08.|
+||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/dfs/1388/">1388</a>|실버4|바닥 장식|DFS|21.09.08.|
+||4|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/bfs/2589/">2589</a>|골드5|보물섬|BFS|21.09.08.|
+||5|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/bfs/1012/">1012</a>|실버2|유기농 배추|BFS|22.04.14.|
+||6|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/1260/">1260</a>|실버2|DFS와 BFS|DFS + BFS|22.05.15.|
 
 </br>
+
 
 ## ✏ Dynamic Programming (DP; 동적 계획법)
 > 1. 가장 중요한 것은 ⭐**memorization**⭐ !!

@@ -96,6 +96,7 @@
 ||No.|문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dc/1074">1047</a>|실버1|Z|22.04.14.|
+||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dc/1780">1780</a>|실버2|종이의 개수|22.05.16.|
 
 </br>
 
@@ -121,6 +122,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1541/">1541</a>|실버2|잃어버린 괄호||22.05.16.|
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1620/">1620</a>|실버4|나는야 포켓몬 마스터 이다솜|해쉬|22.05.16.|
+||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1764/">1764</a>|실버4|듣보잡|해쉬|22.05.16.|
+
 
 </br>
 

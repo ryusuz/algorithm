@@ -21,7 +21,6 @@
 > 2. 동작방식은 bfs와 거의 같다
 > 3. 백트래킹으로 활용 가능
 </br>
-</br>
 
 ||No.|문제번호|티어|제목|비고|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -31,7 +30,7 @@
 ||4|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/bfs/2589/">2589</a>|골드5|보물섬|BFS|21.09.08.|
 ||5|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/bfs/1012/">1012</a>|실버2|유기농 배추|BFS|22.04.14.|
 ||6|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/1260/">1260</a>|실버2|DFS와 BFS|DFS + BFS|22.05.15.|
-
+||7|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/graph/1697/">1697</a>|실버1|숨바꼭질|BFS|22.05.16.|
 </br>
 
 
@@ -52,6 +51,7 @@
 
 </br>
 
+
 ## ✏ Greedy (욕심쟁이)
   > 1. 순간순간이 최선인 선택을 하는(욕심내는) 알고리즘
 </br>
@@ -62,6 +62,7 @@
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/greedy/1789/">9655</a>|실버5|뒤집기|21.09.10.|
 
 </br>
+
 
 ## ✏ Brute force (브루트포스) ; Exhaustive Search (완전탐색)
 > 1. 모든 경우를 직접 하는 알고리즘
@@ -87,6 +88,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//bs/1920/">1920</a>|실버4|수 찾기|21.09.16.|
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/bs/2110/">2110</a>|실버1|공유기 설치|21.09.16.|
+
 </br>
 
 
@@ -94,7 +96,9 @@
 ||No.|문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/dc/1074">1047</a>|실버1|Z|22.04.14.|
+
 </br>
+
 
 ## ✏ Shortest Path (최단 경로 - 다익스트라, 벨만-포드, 플로이드-와샬)
 > 1. 그래프가 주어졌을 때, 최단 경로를 구하는 알고리즘
@@ -111,6 +115,7 @@
 
 </br>
 
+
 ## ✏ Impliment (단순 구현)
 ||No.|문제번호|티어|제목|비고|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -119,6 +124,7 @@
 
 </br>
 
+
 ## ✏ Math
 ||No.|문제번호|티어|제목|날짜|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -126,13 +132,16 @@
 
 </br>
 
+
 ## ✏ Bit masking (비트마스킹)
 
 </br>
 
+
 ## ✏ Sliding Window (슬라이딩 윈도우)
 
 </br>
+
 
 ## ✏ Two Pointers (투포인터)
 

@@ -60,6 +60,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/greedy/1343/">1010</a>|실버5|폴리오미노|21.09.10.|
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/greedy/1789/">9655</a>|실버5|뒤집기|21.09.10.|
+||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon/greedy/1931/">1931</a>|실버1|뒤집기|22.05.16.|
 
 </br>
 
@@ -123,6 +124,7 @@
 ||1|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1541/">1541</a>|실버2|잃어버린 괄호||22.05.16.|
 ||2|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1620/">1620</a>|실버4|나는야 포켓몬 마스터 이다솜|해쉬|22.05.16.|
 ||3|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1764/">1764</a>|실버4|듣보잡|해쉬|22.05.16.|
+||4|<a href="https://github.com/ryusuz/algorithm/tree/master/backjoon//implement/1927/">1927</a>|실버2|최소힙|우선순위 큐|22.05.16.|
 
 
 </br>

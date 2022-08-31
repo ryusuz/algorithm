@@ -15,8 +15,8 @@
 
 |No.|문제|비고|날짜|
 |:---:|:---|:---:|:---:|
-|1|<a href="https://github.com/ryusuz/algorithm/blob/master/leetcode/Medium/AddTwoNumber/AddTwoNumber.cpp">2. Add Two Numbers</a>||22.07.|
-|2|<a href="https://github.com/ryusuz/algorithm/blob/master/leetcode/Medium/Longest Substring Without Repeating Characters/LongestSubstringWithoutRepeating Characters.cpp">3. Longest Substring Without Repeating Characters</a>|Hash|22.07.|
+|1|<a href="https://github.com/ryusuz/algorithm/blob/master/leetcode/Medium/AddTwoNumbers/AddTwoNumbers.cpp">2. Add Two Numbers</a>||22.07.|
+|2|<a href="https://github.com/ryusuz/algorithm/blob/master/leetcode/Medium/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeating Characters.cpp">3. Longest Substring Without Repeating Characters</a>|Hash|22.07.|
 
 
 

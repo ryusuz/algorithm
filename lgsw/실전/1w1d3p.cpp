@@ -95,7 +95,7 @@ int solve() {
 
 }
  
-int main(void)
+int main13(void)
 {
       // 입력받는 부분
       scanf("%d %d", &C, &R);

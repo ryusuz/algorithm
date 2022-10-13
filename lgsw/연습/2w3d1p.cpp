@@ -57,14 +57,13 @@ int kill(int y, int x) {
             q.push({ny, nx, t + 1});
             visit[ny][nx] = true;
             map[ny][nx] = '2';
-            ret = t + 1;
         }
     }
 
     return t;
 }
 
-int save() {
+int survive() {
     int ret = 0;
 
     for(int i = 1; i <= H; i++) {
@@ -80,7 +79,7 @@ int main(){
     InputData();//입력 받는 부분
 
     //여기서부터 작성
-    cout << kill(sh, sw) << "\n" << save() << "\n";
+    cout << kill(sh, sw) << "\n" << survive() << "\n";
 
     return 0;
 }

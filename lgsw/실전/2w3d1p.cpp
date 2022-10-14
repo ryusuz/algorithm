@@ -70,7 +70,6 @@ int solve() {
                 visit[next] = true;
             }
         }
-        cout << endl;
     }
 
     return cnt;

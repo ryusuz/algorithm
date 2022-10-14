@@ -75,7 +75,7 @@ int solve() {
     
     cout << visited[N] << endl;
     
-    // 2. 최단 경로를 따라 경로를 2배씩 바꾸기
+    // 2. 최단 경로를 따라 경로를 2배씩 바꾸고 그때마다 최단 경로 찾기
     int prev, curr = N;
     while (path[curr]) {
         prev = path[curr];

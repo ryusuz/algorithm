@@ -1,0 +1,58 @@
+#include <string>
+#include <vector>
+#include <unordered_map>
+#include <iostream>
+
+using namespace std;
+
+vector<int> getdate(string date) {
+    vector<int> answer(3);
+    
+    answer[0] = stoi(date.substr(0, 4));
+    answer[1] = stoi(date.substr(5, 2));
+    answer[2] = stoi(date.substr(8, 2));
+    
+    return answer;
+}
+
+vector<int> solution(string today, vector<string> terms, vector<string> privacies) {
+    vector<int> answer;
+    unordered_map<char, int> m;
+    
+    vector<int> td = getdate(today);
+    
+    for(auto t : terms) {
+        m[t[0]] = stoi(t.substr(2));
+    }
+    
+    for(int i = 0; i < privacies.size(); i++) {
+        char t = privacies[i][11];
+        int mt = m[t];
+        vector<int> d = getdate(privacies[i]);
+        
+        
+        d[0] += (d[1] + mt) / 12;
+        d[1] = (d[1] + mt) % 12;
+        
+        if (d[1] == 0) {
+            d[1] = 12;
+            d[0]--;
+        }
+                
+        if (d[0] < td[0]) {
+            answer.push_back(i+1);
+            continue;
+        } else if (d[0] == td[0]) {
+            if (d[1] < td[1]) {
+                answer.push_back(i+1);
+                continue;
+            } else if (d[1] == td[1]) {
+                if (d[2] <= td[2]) answer.push_back(i+1);
+            }
+                
+        }
+        
+    }
+    
+    return answer;
+}

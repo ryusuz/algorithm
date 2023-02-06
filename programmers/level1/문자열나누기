@@ -1,0 +1,29 @@
+#include <string>
+#include <vector>
+#include <iostream>
+
+using namespace std;
+
+int solution(string s) {
+    int answer = 0;
+    char x = s[0];
+    
+    int cnt = 0;
+    int cnt_x = 0;
+        
+    for (char c : s) {
+        if (x == ' ') x = c;
+        
+        if (c == x) cnt_x++;
+        else cnt++;
+        
+        if (cnt_x == cnt) {
+            answer++;
+            x = ' ';
+        }
+    }
+    
+    if (cnt_x != cnt) answer++;
+    
+    return answer;
+}
